@@ -14,9 +14,9 @@ Xbotics具身智能社区内推清单
 
 > 如果您是应聘者，且不确定自己适合哪份工作和职业发展困惑，可以联系林-具身聊一聊(微信mmls20240701)，需要我们内推的简历可以发送至内推邮箱：📮 xbot_hc@163.com。也欢迎关注我们的Xbotics具身智能社区！
 
-📚 [(Xbotics具身智能社区官方网站](https://xbotics-embodied.site/)
+📚 [Xbotics具身智能社区官方网站](https://xbotics-embodied.site/)
 
-📚 [(Xbotics具身智能社区知识库](https://mp.weixin.qq.com/s/zBuLAvh7ulbTNQe6jpzC5Q)
+📚 [Xbotics具身智能社区知识库](https://mp.weixin.qq.com/s/zBuLAvh7ulbTNQe6jpzC5Q)
 
 🔍 Know more about employers: [Ratemyprofessor](https://www.ratemyprofessors.com/), [Glassdoor](www.glassdoor.com), [导师推荐人](https://mysupervisor.org/), 导师评价网, 知乎/小红书
 
