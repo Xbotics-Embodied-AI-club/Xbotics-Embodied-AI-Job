@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.3]**
+[赛力斯凤凰技术 - 具身智能大数据专家/具身智能运动控制算法专家/具身智能大模型算法专家等 - 社招](https://mp.weixin.qq.com/s/7jOVc3nm9uHEu4lbX8pj1A)
+
+**[2025.10.30]**
+[京东探索研究院具身智能实验室 - 视觉语言导航算法工程师/控制算法工程师/机器人算法工程师 - 全职](https://mp.weixin.qq.com/s/kFJ6v2bptHQu8xUr5Sd4cA)
+
+**[2025.10.29]**
+[Leading Future - 多模态大模型科学家 - 全职](https://mp.weixin.qq.com/s/00EJG8sg-moCd8ad94nNVg?scene=1&click_id=1)
+
 **[2025.10.27]**
 [仁新机器人 - 机器人 AI算法工程师(5名) - 社招](https://mp.weixin.qq.com/s/nV4ISv7C6PF_pCaLHYsQJw?scene=1&click_id=27)
 
