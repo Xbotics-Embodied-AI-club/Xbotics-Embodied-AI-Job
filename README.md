@@ -117,6 +117,12 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.11.10]**
+[华东师范大学计算机科学与技术学院 - 人工智能/具身智能/计算机系统方向 - 教授/青年学者/技术职务人员/助理教授/博士后研究员等](https://mp.weixin.qq.com/s/KcE1yLx1jVgnDa0V65wYAg?scene=1&click_id=5)
+
+**[2025.11.10]**
+[广东省智能科学与技术研究院—脑机元宇宙数字融合联合实验室 - 博士后2名](https://mp.weixin.qq.com/s/41aphGRkKhZE9MDWVgRbig?scene=1)
+
+**[2025.11.10]**
 [合肥工业大学 - 具身智能医疗科研助理1人](https://mp.weixin.qq.com/s/LTsnQBx_FpT7e4KBGEhRvQ?scene=1)
 
 **[2025.11.9]**
