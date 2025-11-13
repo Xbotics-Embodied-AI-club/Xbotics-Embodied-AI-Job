@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.13]**
+[浙江大学高飞团队 - 群体智能与创新应用方向/移动操作机器人整身规划控制方向/多模态环境感知方向/端到端动态避障策略优化方向/新构型空中操作机器人设计与控制方向 - 科研实习生](https://mp.weixin.qq.com/s/k6K6wjE7qSPjUpSeohTbYg)
+
 **[2025.11.10]**
 [华东师范大学计算机科学与技术学院 - 人工智能/具身智能/计算机系统方向 - 教授/青年学者/技术职务人员/助理教授/博士后研究员等](https://mp.weixin.qq.com/s/KcE1yLx1jVgnDa0V65wYAg?scene=1&click_id=5)
 
