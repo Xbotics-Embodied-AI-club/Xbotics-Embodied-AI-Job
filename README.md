@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.17]**
+[香港中文大学 - 机器人方向李钟毓课题组招募人形/灵巧手/多智能体 - 博士](https://zhuanlan.zhihu.com/p/1972786651731343222)
+
+**[2025.11.16]**
+[ScaleLab -  具身仿真方向 - 实习生](https://zhuanlan.zhihu.com/p/1972675367178348195)
+
 **[2025.11.14]**
 [北京大学先进制造与机器人学院庞智博教授课题组 - 物理智能/具身智能/物理信息神经网络/机器人学 - 博士后研究人员](https://mp.weixin.qq.com/s/nShm0ieNnhUboLIAd2kRYw?scene=1&click_id=28)
 
