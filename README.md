@@ -116,6 +116,16 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.20]**
+[南洋理工大学 LinsLab - 灵巧操作/世界模型/视觉语言动作模型- 26 fall PhD](https://mp.weixin.qq.com/s/pi0fo-MPtWHzuqKDiSxkOQ?scene=1&click_id=29)
+
+**[2025.11.19]**
+[优必选科技 - 高级系统开发工程师（算法工程化）/感知算法高级工程师（无人车） - 社招](https://mp.weixin.qq.com/s/0ZP0S8JfSxLBDVZnuviXOQ?scene=1&click_id=28)
+
+**[2025.11.18]**
+[深圳晨昏线科技有限公司 - 嵌入式硬件开发工程师/Python开发工程师/具身 VLA工程师等 - 实习生/应届生/社招](https://mp.weixin.qq.com/s/m6HnuSKoQD7qbhHgkjZ0nA?scene=1&click_id=27)
+
+
 **[2025.11.17]**
 [香港中文大学 - 机器人方向李钟毓课题组招募人形/灵巧手/多智能体 - 博士](https://zhuanlan.zhihu.com/p/1972786651731343222)
 
