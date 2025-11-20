@@ -117,6 +117,18 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.11.20]**
+[秦皇岛中秦智能装备有限公司 - 机械研发工程师 2人/机器人工程师 1人 - 社招](https://mp.weixin.qq.com/s/tsakRi77_z7p5HC51KuCDg?scene=1&click_id=45)
+
+**[2025.11.20]**
+[长智具身智能（海南）科技有限公司 - 研发工程师/数采员（机器人数据采集团队）等 - 社招](https://mp.weixin.qq.com/s/tNROcwWW27qoLK-SFmMTQg?scene=1&click_id=44)
+
+**[2025.11.20]**
+[新生纪智能科技有限公司 - FAE工程师 - 社招](https://mp.weixin.qq.com/s/k8YTqni4V4mJzQX711Wo0A?scene=1&click_id=43)
+
+**[2025.11.20]**
+[西湖机器人科技(杭州)有限公司 - 深度强化学习算法工程师/具身智能算法工程师等 - 社招 ](https://mp.weixin.qq.com/s/mg0Or_9rZPDksJncRb3DMw?scene=1&click_id=42)
+
+**[2025.11.20]**
 [南洋理工大学 LinsLab - 灵巧操作/世界模型/视觉语言动作模型- 26 fall PhD](https://mp.weixin.qq.com/s/pi0fo-MPtWHzuqKDiSxkOQ?scene=1&click_id=29)
 
 **[2025.11.19]**
