@@ -117,6 +117,12 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.11.24]**
+[东风研发总院 - 具身智能体方向 - 实习生](https://mp.weixin.qq.com/s/2zAOI4VKfk1Om5_f29o67w?scene=1&click_id=12)
+
+**[2025.11.24]**
+[阿里达摩院具身智能实验室 - 机器人本体硬件开发专家/机器人本体机械/结构开发专家-具身智能等 - 社招](https://mp.weixin.qq.com/s/lS8AKo3Z9ReJpZRDT9pNEA?scene=1&click_id=11)
+
+**[2025.11.24]**
 [清华深研院 - 江勇老师课题组 - 研究型实习生](https://zhuanlan.zhihu.com/p/642152849)
 
 **[2025.11.23]**
