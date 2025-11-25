@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.25]**
+[高德视觉技术中心 - 世界模型 - 全职 - 学历不限，高中、本科、硕士、博士均可](https://mp.weixin.qq.com/s/UGRbzzdjuEQ9jQ6jiEsVpA)
+
+**[2025.11.24]**
+[上海人工智能实验室 - 具身智能中心](./2025/具身智能中心)
+
 **[2025.11.24]**
 [东风研发总院 - 具身智能体方向 - 实习生](https://mp.weixin.qq.com/s/2zAOI4VKfk1Om5_f29o67w?scene=1&click_id=12)
 
