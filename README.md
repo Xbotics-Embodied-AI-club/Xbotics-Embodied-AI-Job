@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.11.28]**
+[京东物流具身智能团队-寒假实习生招聘-具身智能实习生](./2025/具身智能实习生)
+
+**[2025.11.28]**
+[Physical Intelligence Lab - 机器人控制方向 - 全职科研助理（RA） ](https://zhuanlan.zhihu.com/p/1976670311270355199)
+
+**[2025.11.28]**
+[中科院自动化所水下机器人团队 - 科研实习生招募（长期有效）](https://zhuanlan.zhihu.com/p/1976370255329775664)
+
 **[2025.11.26]**
 [普林斯顿大学PRISM实验室 - 机器人基础模型/开放世界系统 - 全奖博士/博士后](https://mp.weixin.qq.com/s/gdC3vm8ueNMzgeniF3uJrw)
 
