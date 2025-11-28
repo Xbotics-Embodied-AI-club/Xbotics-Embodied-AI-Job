@@ -119,6 +119,7 @@ Xbotics具身智能社区内推清单
 **[2025.11.26]**
 [普林斯顿大学PRISM实验室 - 机器人基础模型/开放世界系统 - 全奖博士/博士后](https://mp.weixin.qq.com/s/gdC3vm8ueNMzgeniF3uJrw)
 
+**[2025.11.25]**
 [高德视觉技术中心 - 世界模型 - 全职 - 学历不限，高中、本科、硕士、博士均可](https://mp.weixin.qq.com/s/UGRbzzdjuEQ9jQ6jiEsVpA)
 
 **[2025.11.24]**
