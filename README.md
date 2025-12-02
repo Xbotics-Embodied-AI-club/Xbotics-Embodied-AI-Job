@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.2]**
+[深圳作为科技有限公司 - 智能算法专家（系统架构负责人）/高级控制算法工程师/高级结构工程师（机器人）等 - 社招](https://mp.weixin.qq.com/s/1rE6QqP7KIe2j6uLAHqZQg)
+
+**[2025.12.2]**
+[无论科技 - 风格化运动控制工程师/幻想工程师/资深运动控制工程师（强化学习）/多模态算法/资深嵌入式软件 - 社招](https://mp.weixin.qq.com/s/RqhTGxIcODUtIO-DWle3zQ)
+
+**[2025.12.1]**
+[智元机器人 - 机器人算法/运控算法工程师 - 校招](https://mp.weixin.qq.com/s/4wJjcjsusdTOenXVMt3vJw?scene=1&click_id=3)
+
+**[2025.11.30]**
+[加州大学圣地亚哥分校（UC San Diego）Halıcıoğlu 数据科学研究所的因果智能实验室（Causal Intelligence Lab） - VLA/世界模型/真实机器人系统等方向 - 博士后](https://mp.weixin.qq.com/s/uUZecxTonEEkbraFA37xow)
+
 **[2025.11.28]**
 [京东物流具身智能团队-寒假实习生招聘-具身智能实习生](./2025/具身智能实习生)
 
