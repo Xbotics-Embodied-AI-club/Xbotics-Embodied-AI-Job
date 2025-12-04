@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.4]**
+[清华大学Xueyan Zou老师 - 机器人学习与控制（RL、Imitation Learning、VLA）感知与基础模型（LLMs、LMMs、三维感知）Real-to-Sim-to-Real 迁移（物理仿真、数字孪生、世界模型） - 博士生/实习生](https://mp.weixin.qq.com/s/1kUdcJZZMGxvo88F_a1aHw)
+
+**[2025.12.4]**
+[高德-视觉技术中心-world model算法组 - 人形机器人算法 - 实习生](https://mp.weixin.qq.com/s/kN1PzH_YvBRbM54Wlm3b-g)
+
 **[2025.12.2]**
 [深圳作为科技有限公司 - 智能算法专家（系统架构负责人）/高级控制算法工程师/高级结构工程师（机器人）等 - 社招](https://mp.weixin.qq.com/s/1rE6QqP7KIe2j6uLAHqZQg)
 
