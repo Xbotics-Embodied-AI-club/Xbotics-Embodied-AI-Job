@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.5]**
+[蚂蚁天玑实验室 - 具身智能实习-北京-遥操作/数据/VLA - 实习](https://mp.weixin.qq.com/s/KMv_jXEa4c8GMXrqM_GSJw)
+
 **[2025.12.4]**
 [清华大学Xueyan Zou老师 - 机器人学习与控制（RL、Imitation Learning、VLA）感知与基础模型（LLMs、LMMs、三维感知）Real-to-Sim-to-Real 迁移（物理仿真、数字孪生、世界模型） - 博士生/实习生](https://mp.weixin.qq.com/s/1kUdcJZZMGxvo88F_a1aHw)
 
