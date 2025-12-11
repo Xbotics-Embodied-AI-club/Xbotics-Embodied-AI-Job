@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.9]**
+[字节跳动Flow具身团队 - VLA&世界模型方向 - 科研实习生](https://mp.weixin.qq.com/s/b94VZCtdPXHW_YiuneZOGg)
+
+**[2025.12.7]**
+[香港理工大学 - 具身智能方向 - 全奖博士生 (2026Fall)](https://mp.weixin.qq.com/s/ukpcDrvCeHCYAsC7YXFoEg)
+
 **[2025.12.5]**
 [蚂蚁天玑实验室 - 具身智能实习-北京-遥操作/数据/VLA - 实习](https://mp.weixin.qq.com/s/KMv_jXEa4c8GMXrqM_GSJw)
 
