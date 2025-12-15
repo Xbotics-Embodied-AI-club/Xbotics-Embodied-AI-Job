@@ -116,6 +116,24 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.15]**
+[北京智源人工智能研究院BAAI - 具身智能 - 研究实习生](https://mp.weixin.qq.com/s/CqLY2pcovNuIAdSosJIdUg)
+
+**[2025.12.15]**
+[图灵机器人 - 算法工程师(工业机器人)/算法工程师(人形机器人)/软件工程师/电气工程师等 - 2026校招](https://mp.weixin.qq.com/s/iEgeShGegh3FFwf5mCHTlA?scene=1)
+
+**[2025.12.14]**
+[运动控制算法-base无锡 - 微信:Jun9-Yu](https://mp.weixin.qq.com/s/g77akW_DlWuppMxuOMil8g)
+
+**[2025.12.14]**
+[小米汽车 - 自动驾驶VLA - 实习生、研究员](https://mp.weixin.qq.com/s/9El0Uxv7pcxbLvkpV8T_Sw)
+
+**[2025.12.13]**
+[中国科学技术大学通用人工智能研究所 - 人工智能、 世界模型、具身智能、AI for Science、自动驾驶等前沿方向 - 教授、研究员、副教授、博后、工程师、博士生、硕士生、本科实习生](https://mp.weixin.qq.com/s/V-7OiZNSH7Q4OkjuHs4ctg)
+
+**[2025.12.12]**
+[宾夕法尼亚大学Jiayuan Mao老师 - 智能体理论/智能体算法/智能体系统方向 - 全奖博士](https://mp.weixin.qq.com/s/8ZMIuZygjKHRIlsiMUxXOQ)
+
 **[2025.12.9]**
 [字节跳动Flow具身团队 - VLA&世界模型方向 - 科研实习生](https://mp.weixin.qq.com/s/b94VZCtdPXHW_YiuneZOGg)
 
