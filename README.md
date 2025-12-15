@@ -117,6 +117,18 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.12.15]**
+[北京华晟经世信息技术股份有限公司 - 机器人工程师 - 全职](https://mp.weixin.qq.com/s/9eduitgVcHjm78gP-N5E5Q)
+
+**[2025.12.15]**
+[中国科学院空间应用工程与技术中心2025年空间实验技术研究室 - 空间具身智能操控技术研究岗位1名](http://www.csu.cas.cn/gb/yjdw/rczp/202512/t20251212_8026997.html)
+
+**[2025.12.15]**
+[雄安中晟泰合科技有限公司 - 机械结构工程师/算法工程师/产品工程师/项目工程师等 - 校招](https://mp.weixin.qq.com/s/ec3Msm5caExiavjgfVyOQQ)
+
+**[2025.12.15]**
+[融云创新 - 定位 / 感知 / 规控 / 机器人算法 - 社招](https://mp.weixin.qq.com/s/S4VsE4XtPfGpBlFJS2tFqQ)
+
+**[2025.12.15]**
 [北京智源人工智能研究院BAAI - 具身智能 - 研究实习生](https://mp.weixin.qq.com/s/CqLY2pcovNuIAdSosJIdUg)
 
 **[2025.12.15]**
