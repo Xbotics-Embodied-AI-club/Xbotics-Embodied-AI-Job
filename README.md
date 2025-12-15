@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.16]**
+[地平线 - 具身生成方向、机器人运动控制算法 - 实习生](https://mp.weixin.qq.com/s/kiA2aRJI00qv2yzcngYtfA?scene=1&click_id=10)
+
 **[2025.12.15]**
 [北京华晟经世信息技术股份有限公司 - 机器人工程师 - 全职](https://mp.weixin.qq.com/s/9eduitgVcHjm78gP-N5E5Q)
 
