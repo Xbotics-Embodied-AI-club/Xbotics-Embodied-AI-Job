@@ -117,6 +117,12 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.12.16]**
+[西湖大学可信及通用人工智能实验室 - “AI驱动的组合优化”方向/“多模态数据驱动优化”方向/“数据驱动的进化优化”方向/“自演进AI智能体辅助科学发现与策略优化”方向/“基于大模型的带电作业机器人”方向等 - 科研助理](https://mp.weixin.qq.com/s/YJCM2-Mxwpo71GjX0dCIpg?scene=1&click_id=10)
+
+**[2025.12.16]**
+[Leading Future  - 多模态大模型科学家-面向人形机器人研发具身大模型 - 全职](https://mp.weixin.qq.com/s/AcvO97ME7vKv_YJCA29HPw?scene=1&click_id=9)
+
+**[2025.12.16]**
 [地平线 - 具身生成方向、机器人运动控制算法 - 实习生](https://mp.weixin.qq.com/s/kiA2aRJI00qv2yzcngYtfA?scene=1&click_id=10)
 
 **[2025.12.15]**
