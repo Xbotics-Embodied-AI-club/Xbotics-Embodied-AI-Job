@@ -117,6 +117,12 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.12.17]**
+[智元机器人 - 灵巧手控制实习生/灵巧手测试实习生 - 实习](https://mp.weixin.qq.com/s/-UuEIdfH3FGarpD_ngBWVg)
+
+**[2025.12.17]**
+[奇瑞墨甲机器人 - 系统开发助理工程师/算法架构助理工程师/机器人仿真系统集成助理工程师 - 全职/实习](https://mp.weixin.qq.com/s/ZuS8FW_yGncmNJuXR---cA)
+
+**[2025.12.17]**
 [中科深谷 - 智能算法工程师/机器人算法工程师/全栈工程师等 - 社招](https://mp.weixin.qq.com/s/LLpmbRY2Kf7Uphiz4QKjTQ)
 
 **[2025.12.16]**
