@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.17]**
+[中科深谷 - 智能算法工程师/机器人算法工程师/全栈工程师等 - 社招](https://mp.weixin.qq.com/s/LLpmbRY2Kf7Uphiz4QKjTQ)
+
 **[2025.12.16]**
 [西湖大学可信及通用人工智能实验室 - “AI驱动的组合优化”方向/“多模态数据驱动优化”方向/“数据驱动的进化优化”方向/“自演进AI智能体辅助科学发现与策略优化”方向/“基于大模型的带电作业机器人”方向等 - 科研助理](https://mp.weixin.qq.com/s/YJCM2-Mxwpo71GjX0dCIpg?scene=1&click_id=10)
 
