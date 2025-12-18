@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.18]**
+[斯坦福大学Vision and Learning Lab（SVL） - 机器人研究相关软件开发工程师](https://mp.weixin.qq.com/s/drEXQg3R55hS_ogAJ4KBTQ?scene=1&click_id=7)
+
 **[2025.12.17]**
 [智元机器人 - 灵巧手控制实习生/灵巧手测试实习生 - 实习](https://mp.weixin.qq.com/s/-UuEIdfH3FGarpD_ngBWVg)
 
