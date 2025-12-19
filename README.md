@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.19]**
+[大疆 - 2D/3D感知、具身智能、SLAM、机器人算法与嵌入式工程师 - 全职](https://mp.weixin.qq.com/s/u8Ehc1vRcgYT90R8LNSfEQ)
+
 **[2025.12.18]**
 [斯坦福大学Vision and Learning Lab（SVL） - 机器人研究相关软件开发工程师](https://mp.weixin.qq.com/s/drEXQg3R55hS_ogAJ4KBTQ?scene=1&click_id=7)
 
