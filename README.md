@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.22]**
+[中科院自动化所 - 机器人灵巧操作方向 - 实习生](https://mp.weixin.qq.com/s/ROqIpm_r8uD-hPOEyEtZEg)
+
+**[2025.12.21]**
+[高德 - 运动生成与控制算法工程师 / 实习生](https://mp.weixin.qq.com/s/SW0jZ0y4UgQkEbjdh9L8BQ)
+
+**[2025.12.20]**
+[美国西北大学Ruohan Zhang老师组 - 方向以人为中心的人工智能与机器人 - 博士招生](https://mp.weixin.qq.com/s/0_vFYUopFMq2PMd6r82lrw)
+
+**[2025.12.20]**
+[今日资本 - AI/机器人/新品牌方向 - 做投资/要创业/做研究 - 社招](./2025/今日资本)
+
 **[2025.12.19]**
 [大疆 - 2D/3D感知、具身智能、SLAM、机器人算法与嵌入式工程师 - 全职](https://mp.weixin.qq.com/s/u8Ehc1vRcgYT90R8LNSfEQ)
 
