@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.23]**
+[小鹏汽车 - 大语言模型算法 / AI多模态研究方向 - 实习](https://mp.weixin.qq.com/s/ZZ9nu2H6u8kd0mcblIBYQw?scene=1)
+
 **[2025.12.22]**
 [中科院自动化所 - 机器人灵巧操作方向 - 实习生](https://mp.weixin.qq.com/s/ROqIpm_r8uD-hPOEyEtZEg)
 
