@@ -119,6 +119,15 @@ Xbotics具身智能社区内推清单
 **[2025.12.23]**
 [小鹏汽车 - 大语言模型算法 / AI多模态研究方向 - 实习](https://mp.weixin.qq.com/s/ZZ9nu2H6u8kd0mcblIBYQw?scene=1)
 
+**[2025.12.23]**
+[机器人交互 / LLM 产品方向 - 实习生](https://mp.weixin.qq.com/s/QPzhvSfNiciU3VCKuoL5mQ)
+
+**[2025.12.22]**
+[广西具身智能数据采集及测试中心 - 机器人维修技术员/开发工程师/数据采集人员/数据标注 - 实习](https://mp.weixin.qq.com/s/vp00ha5_HxhpLa_BuGWTZg)
+
+**[2025.12.22]**
+[北京智源人工智能研究院BAAI - 具身智能 - 实习生](https://mp.weixin.qq.com/s/tt2tbAcou9AMkn24IJjXow)
+
 **[2025.12.22]**
 [中科院自动化所 - 机器人灵巧操作方向 - 实习生](https://mp.weixin.qq.com/s/ROqIpm_r8uD-hPOEyEtZEg)
 
