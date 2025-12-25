@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.25]**
+[吉利研究院 - 足式机器人运动控制算法开发工程师 - 社招/实习](https://mp.weixin.qq.com/s/_VuXs_OQ5nrEV8oX8S3rXQ?scene=1&click_id=14)
+
 **[2025.12.24]**
 [上海禾赛科技有限公司 - 高性能计算工程师/多模态生成算法工程师 - 社招](https://mp.weixin.qq.com/s/g6N24x52Ew-Mi7Q8y9CocQ?scene=1)
 
