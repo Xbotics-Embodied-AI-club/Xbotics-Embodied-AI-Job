@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.28]**
+[小鹏机器人 - LLM/VLM算法 - 研发实习生](https://mp.weixin.qq.com/s/J7w18o67B1W_5aYtcOvtWA)
+
+**[2025.12.27]**
+[清华大学电子工程系SenseLab实验室 - 具身智能机器人集群协同探索算法与模型方向 - 实习/科研](https://mp.weixin.qq.com/s/YJuFpSu256Ryimx_kgD74Q)
+
+**[2025.12.27]**
+[xLean颗粒进化 - 嵌入式软件开发工程师（蓝牙通信方向）/SLAM算法工程师感知 / 图像算法工程师/导航算法工程师（可接受C++开发转岗）/硬件产品经理硬件工程师/SQE工程师（机电模组、电子料方向）/AIoT全栈开发工程师/嵌入式 Linux 系统开发工程师 - 实习/全职](https://mp.weixin.qq.com/s/xSWufmYqSI7wbV7e_-XzUA)
+
 **[2025.12.26]**
 [上海青心意创科技有限公司 - 具身智能算法工程师/机器人软件研发工程师/足式运动控制工程师（RL） - 社招](https://mp.weixin.qq.com/s/4TyA2wRo5CFsZcSCRsGFuw)
 
