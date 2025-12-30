@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.30]**
+[北京银河通用机器人股份有限公司 - 机器人规划算法实习生/具身算法应用工程师(26届)/3D人体算法研究员 - 校招/社招/实习](https://mp.weixin.qq.com/s/aKbbdbYHa8VpvXMAkGnxDA?scene=1&click_id=4)
+
+**[2025.12.29]**
+[造父Robotaxi云端算法团队 - 世界模型-重建算法工程师/专家/、世界模型-生成算法工程师/专家、云端基础模型算法工程师/专家、云端标注算法工程师/专家、云端仿真算法工程师/专家等 - 全职/实习](https://mp.weixin.qq.com/s/B5cXs6LgUFaNJzKPZ2swsQ?scene=1&click_id=3)
+
 **[2025.12.28]**
 [小鹏机器人 - LLM/VLM算法 - 研发实习生](https://mp.weixin.qq.com/s/J7w18o67B1W_5aYtcOvtWA)
 
