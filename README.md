@@ -117,6 +117,15 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2025.12.30]**
+[清华系具身智能数据团队·星忆智能 - 具身智能 - 实习](https://mp.weixin.qq.com/s/6YKY5yywgZDWwMjVOYKymA?scene=1&click_id=11)
+
+**[2025.12.30]**
+[南京我乐家居股份有限公司 - AI具身智能算法工程师 - 南京 - 社招](https://mp.weixin.qq.com/s/eHxItEXymvHDnt2kD5QAVw?scene=1&click_id=10)
+
+**[2025.12.30]**
+[长虹智能机器人公司 - 机器人系统架构工程师/机器人算法工程师（VLA/RL）/机器人VLN算法工程师](https://mp.weixin.qq.com/s/IclhGyIjBeMdfMcd0Y8Z9Q?scene=1&click_id=9)
+
+**[2025.12.30]**
 [北京银河通用机器人股份有限公司 - 机器人规划算法实习生/具身算法应用工程师(26届)/3D人体算法研究员 - 校招/社招/实习](https://mp.weixin.qq.com/s/aKbbdbYHa8VpvXMAkGnxDA?scene=1&click_id=4)
 
 **[2025.12.29]**
