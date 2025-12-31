@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2025.12.31]**
+[中国科学院软件研究所 - 自动驾驶/智能交通/具身智能/世界模型方向 - 实习（支持远程）](https://mp.weixin.qq.com/s/wKCukOLG0zloC-ktPodDsw)
+
 **[2025.12.30]**
 [清华系具身智能数据团队·星忆智能 - 具身智能 - 实习](https://mp.weixin.qq.com/s/6YKY5yywgZDWwMjVOYKymA?scene=1&click_id=11)
 
