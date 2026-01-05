@@ -117,6 +117,9 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.1.5]**
+[香港科技大学（广州）具身智能研究所 - 行政方向](https://mp.weixin.qq.com/s/Oz_qbKQF1vJ4oiHjmMsPAQ)
+
+**[2026.1.5]**
 [具身刺绣 × 青少年女性心身健康研究项目 - 多模态交互技术实习生/体验与视觉设计实习生 - 实习](https://mp.weixin.qq.com/s/0kEXKIbFwYZO9P-JvB399Q?scene=1&click_id=14)
 
 **[2026.1.5]**
