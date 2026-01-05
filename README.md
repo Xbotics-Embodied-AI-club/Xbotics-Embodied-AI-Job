@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.5]**
+[具身刺绣 × 青少年女性心身健康研究项目 - 多模态交互技术实习生/体验与视觉设计实习生 - 实习](https://mp.weixin.qq.com/s/0kEXKIbFwYZO9P-JvB399Q?scene=1&click_id=14)
+
+**[2026.1.5]**
+[小米机器人 - 具身智能算法 - 实习生](https://mp.weixin.qq.com/s/G0jI5w3_mv4Zzn9eQbdGnw?scene=1&click_id=13)
+
+**[2026.1.4]**
+[中联重科股份有限公司 - 机器人研发工程师/具身大模型专家/机器人控制算法专家/机器人感知算法专家/机器人多模态算法工程师等 - 校招/社招](https://mp.weixin.qq.com/s/ukOxOA23-yM0md91m55xyA?scene=1&click_id=11)
+
+**[2026.1.3]**
+[北京字节跳动科技有限公司 火山引擎 - 操作算法资深专家（具身智能）/具身导航算法专家 - 全职](https://mp.weixin.qq.com/s/92odWhqbiqdNEp7Rd3TkJg?scene=1&click_id=10)
+
 **[2025.12.31]**
 [中国科学院软件研究所 - 自动驾驶/智能交通/具身智能/世界模型方向 - 实习（支持远程）](https://mp.weixin.qq.com/s/wKCukOLG0zloC-ktPodDsw)
 
