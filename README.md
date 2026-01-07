@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.7]**
+[北京市机器人产业协会 - 专职副秘书长/业务拓展事业部负责人/产业研究事业部负责人/标准事业部负责人 - 社招](https://mp.weixin.qq.com/s/mX3sASzmMaXNXuP1UcgeJQ?scene=1&click_id=20)
+
+**[2026.1.7]**
+[特马工业技术（上海）有限公司 - 工业机器人调试工程师 - 社招](https://mp.weixin.qq.com/s/3qtEiO-dB7VEm_yEbouOmw?scene=1&click_id=19)
+
+**[2026.1.7]**
+[深圳技术大学灵巧机器人学课题组 - 机器人灵巧操作/多模态等方向 - 专职副研究员/博士后](https://mp.weixin.qq.com/s/nwTmiZPDWA1VP2PxaAfWqg?scene=1&click_id=18)
+
+**[2026.1.6]**
+[NVIDIA - 高级软件工程师密集重建(上海/北京/广州)/工程经理人形机器人移动操作(上海) - 社招](https://mp.weixin.qq.com/s/6Z7H1NobP2eUwn0vNvlI3w?scene=1&click_id=6)
+
 **[2026.1.5]**
 [香港科技大学（广州）具身智能研究所 - 行政方向](https://mp.weixin.qq.com/s/Oz_qbKQF1vJ4oiHjmMsPAQ)
 
