@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.8]**
+[智瀚星途 - 产品经理（杭州）/定位算法实习生（武汉）/VLM算法实习生（武汉）/VLA大模型算法实习生（武汉）/仿真算法实习生（武汉）/机械臂VLA 算法实习/全职（武汉） - 全职/实习](https://mp.weixin.qq.com/s/qb-tejzfLA7pCUevTZ6eWw?scene=1&click_id=16)
+
 **[2026.1.7]**
 [北京市机器人产业协会 - 专职副秘书长/业务拓展事业部负责人/产业研究事业部负责人/标准事业部负责人 - 社招](https://mp.weixin.qq.com/s/mX3sASzmMaXNXuP1UcgeJQ?scene=1&click_id=20)
 
