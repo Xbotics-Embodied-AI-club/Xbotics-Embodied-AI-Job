@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.12]**
+[韩国科学技术院黄荷叶博士 - 自动驾驶/具身智能方向 - 全奖博士研究生和科研助理（26年秋季入学）](https://mp.weixin.qq.com/s/O8kx-PUUwUUkRz4e9-7ctw?scene=1&click_id=8)
+
+**[2026.1.11]**
+[雄安中晟泰合科技有限公司 - 机械结构设计实习生/算法工程师助理/产品经理助理/项目经理助理/商务经理助理 - 实习生]
+
+**[2026.1.11]**
+[英达视 - 软件算法实习生(具身智能方向)/具身大模型算法 - 实习生](https://mp.weixin.qq.com/s/K5MbnS7NqvBQf7yBh-5M7w?scene=1&click_id=6)
+
 **[2026.1.8]**
 [智瀚星途 - 产品经理（杭州）/定位算法实习生（武汉）/VLM算法实习生（武汉）/VLA大模型算法实习生（武汉）/仿真算法实习生（武汉）/机械臂VLA 算法实习/全职（武汉） - 全职/实习](https://mp.weixin.qq.com/s/qb-tejzfLA7pCUevTZ6eWw?scene=1&click_id=16)
 
