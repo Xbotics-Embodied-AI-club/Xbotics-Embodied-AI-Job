@@ -120,7 +120,7 @@ Xbotics具身智能社区内推清单
 [韩国科学技术院黄荷叶博士 - 自动驾驶/具身智能方向 - 全奖博士研究生和科研助理（26年秋季入学）](https://mp.weixin.qq.com/s/O8kx-PUUwUUkRz4e9-7ctw?scene=1&click_id=8)
 
 **[2026.1.11]**
-[雄安中晟泰合科技有限公司 - 机械结构设计实习生/算法工程师助理/产品经理助理/项目经理助理/商务经理助理 - 实习生]
+[雄安中晟泰合科技有限公司 - 机械结构设计实习生/算法工程师助理/产品经理助理/项目经理助理/商务经理助理 - 实习生](https://mp.weixin.qq.com/s/G8sm0TNCdJQyleZPMaEvLg?scene=1&click_id=9)
 
 **[2026.1.11]**
 [英达视 - 软件算法实习生(具身智能方向)/具身大模型算法 - 实习生](https://mp.weixin.qq.com/s/K5MbnS7NqvBQf7yBh-5M7w?scene=1&click_id=6)
