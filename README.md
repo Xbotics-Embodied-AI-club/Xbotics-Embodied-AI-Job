@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.13]**
+[南方科技大学戴建生院士团队 - 机构学与机构理论/智能结构与进化机器人/可重构制造与具身智能机器人方向 - 博士后](https://mp.weixin.qq.com/s/BzFYRbIMqr7ZFllr2nKzLw?scene=1&click_id=9)
+
 **[2026.1.12]**
 [韩国科学技术院黄荷叶博士 - 自动驾驶/具身智能方向 - 全奖博士研究生和科研助理（26年秋季入学）](https://mp.weixin.qq.com/s/O8kx-PUUwUUkRz4e9-7ctw?scene=1&click_id=8)
 
