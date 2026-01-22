@@ -116,6 +116,24 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.1.22]**
+[中国空间技术研究院CAST+AI·R人工智能专班 - 大模型算法研发/大模型数据治理/大模型应用系统开发/具身智能算法研发 - 全职/实习](https://mp.weixin.qq.com/s/c4fAcV0U_J0zBxbS0VXEKA)
+
+**[2026.1.22]**
+[奇瑞汽车 智能化研究院 - 具身智能算法/具身智能产品开发/具身智能仿真开发等 - 芜湖/上海 - 全职](https://mp.weixin.qq.com/s/aVUfj082lSMqqY3CK6ZdjQ)
+
+**[2026.1.20]**
+[复旦大学嵌入式深度学习实验室 - 具身智能方向 - 博士后](https://mp.weixin.qq.com/s/gD9uBJd6bZHnba61ijWqQg)
+
+**[2026.1.17]**
+[广东福田实验室 - 具身智能大模型算法工程师/控制算法工程师/控制算法工程师(关节控制)/算法实习生等 - 全职/实习](https://mp.weixin.qq.com/s/tPSGK5fUWrXEFpetpuo4-g)
+
+**[2026.1.17]**
+[计算机视觉方向深度学习算法实习生-base杭州 - 实习](./2025/计算机视觉)
+
+**[2026.1.16]**
+[北京智源人工智能研究院（BAAI）具身智能团队 - UMI & VLA - 实习](https://mp.weixin.qq.com/s/tm-s4CME_X7684-rkcg3uA?scene=1&click_id=3)
+
 **[2026.1.15]**
 [启元实验室-湖南大学联培PhD项目 - 具身智能方向 - 社招](https://mp.weixin.qq.com/s/PpNXo4B45T82tySF4m4Ssg)
 
