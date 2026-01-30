@@ -119,6 +119,9 @@ Xbotics具身智能社区内推清单
 **[2026.1.29]**
 [大疆 - 视觉/决策规划算法工程师（深圳/上海/北京）- 全职](https://mp.weixin.qq.com/s/PDSfLXGhiC3Mrfx1nCTCuA?scene=1&click_id=2)
 
+**[2026.1.27]**
+[理想汽车 - 入式软件工程师-灵巧手/算法研发工程师-全身运控/嵌入式硬件工程师-交互感知 - 全职](https://mp.weixin.qq.com/s/vHTNZpHXIOrJqIR1qDZq3w)
+
 **[2026.1.26]**
 [大疆无人机感知团队 - 感知算法方向工程师 - 全职](https://mp.weixin.qq.com/s/MniNaRFqe3qDwsr3gDKTog)
 
