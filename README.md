@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.1]**
+[深圳理工大学-计算机科学与人工智能学院-具身智能实验室 - 具身算法研究实习生（若干）](./2025/具身算法)
+
+**[2026.2.1]**
+[美团 LongCat基座大模型团队 - 具身智能实习生 - 可转正/校招](https://mp.weixin.qq.com/s/ijFNxQlCUz9iECujwWZ9ZQ)
+
+**[2026.1.31]**
+[南京大学三维视觉实验室龙霄潇课题组 - 三维视觉、图形学、具身智能等方向 - 硕博、联培、访问生](https://mp.weixin.qq.com/s/cnvg1LswhE8ZEoXxohPqIQ)
+
 **[2026.1.29]**
 [大疆 - 视觉/决策规划算法工程师（深圳/上海/北京）- 全职](https://mp.weixin.qq.com/s/PDSfLXGhiC3Mrfx1nCTCuA?scene=1&click_id=2)
 
