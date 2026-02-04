@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.4]**
+[柏奥尼克机器人 - 强化学习算法工程师/VLA算法工程师/传统运动控制算法工程/机械臂运控算法工程师/电机电控算法工程师 - 社招](https://mp.weixin.qq.com/s/gcBn6wzWlzQvomKjK1dOYQ)
+
+**[2026.2.3]**
+[惠阳异构具身智能训练场项目 - 具身智能数据采集员 - 社招/实习](https://mp.weixin.qq.com/s/Ca6PcpShadEfJK7jeVZrNA?scene=1&click_id=11)
+
+**[2026.2.2]**
+[蚂蚁灵波科技 - VLA模型算法工程师-具身智能方向/VLA模型算法实习生 - 社招/实习](https://mp.weixin.qq.com/s/xDC-u4cDFGNPBTJnlSZCmA)
+
 **[2026.2.1]**
 [深圳理工大学-计算机科学与人工智能学院-具身智能实验室 - 具身算法研究实习生（若干）](./2025/具身算法)
 
