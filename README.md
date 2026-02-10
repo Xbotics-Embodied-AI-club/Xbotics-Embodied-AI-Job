@@ -119,6 +119,12 @@ Xbotics具身智能社区内推清单
 **[2026.2.9]**
 [北京银河通用机器人股份有限公司 - 机器人遥操算法工程师/机器人应用开发工程师（具身智能 & 情感交互方向） - 社招](https://mp.weixin.qq.com/s/aC3LUlH52y4PbCjeCWDGDA)
 
+**[2026.2.8]**
+[深圳福田实验室 - 大量机器人具身领域岗位 - 社招](https://mp.weixin.qq.com/s/0MKoU3hYcHCSfkJosSk0Sw?scene=1&click_id=32)
+
+**[2026.2.8]**
+[西湖大学TGAI实验室 - 具身智能硬件工程师 - 科研助理1人 - 杭州](https://mp.weixin.qq.com/s/Xuw6F1fk6BCVOripLXQKPQ?scene=1&click_id=31)
+
 **[2026.2.7]**
 [字节跳动 - 算法/机器学习/计算机视觉等研发岗 - 校招](https://mp.weixin.qq.com/s/vRu9eyBMYoaqRaVu4A0SEA)
 
