@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.9]**
+[北京银河通用机器人股份有限公司 - 机器人遥操算法工程师/机器人应用开发工程师（具身智能 & 情感交互方向） - 社招](https://mp.weixin.qq.com/s/aC3LUlH52y4PbCjeCWDGDA)
+
+**[2026.2.7]**
+[字节跳动 - 算法/机器学习/计算机视觉等研发岗 - 校招](https://mp.weixin.qq.com/s/vRu9eyBMYoaqRaVu4A0SEA)
+
+**[2026.2.6]**
+[港科大谭平组 - 人形机器人 - 科研助理/硕博](https://mp.weixin.qq.com/s/IgdDbigndr_2kiaG291k3A)
+
 **[2026.2.4]**
 [柏奥尼克机器人 - 强化学习算法工程师/VLA算法工程师/传统运动控制算法工程/机械臂运控算法工程师/电机电控算法工程师 - 社招](https://mp.weixin.qq.com/s/gcBn6wzWlzQvomKjK1dOYQ)
 
