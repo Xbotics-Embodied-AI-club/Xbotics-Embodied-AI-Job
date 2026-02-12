@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.12]**
+[松延动力（北京）科技有限公司 - 强化学习运控算法工程师/机器人运控算法工程师/高级强化学习算法工程师/RL长期实习生 - 实习/全职](https://mp.weixin.qq.com/s/OMikdQrYNg3X-Uu66vkjaw?scene=1&click_id=4)
+
+**[2026.2.11]**
+[亿嘉和 - 大模型背景人形机器人语音对话 - base南京 - 硕博](https://www.yijiahe.com/)
+
 **[2026.2.9]**
 [北京银河通用机器人股份有限公司 - 机器人遥操算法工程师/机器人应用开发工程师（具身智能 & 情感交互方向） - 社招](https://mp.weixin.qq.com/s/aC3LUlH52y4PbCjeCWDGDA)
 
