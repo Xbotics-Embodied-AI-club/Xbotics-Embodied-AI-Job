@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.26]**
+[深圳市越疆科技股份有限公司 - 机器人算法研究员/机器人算法工程师(运动规划方向)/嵌入式软件工程师(C++方向)/嵌入式软件工程师(MCU方向)等 - 2026届全球校](https://mp.weixin.qq.com/s/naMnqFAeK2JG7Bdjm_xXqg)
+
 **[2026.2.12]**
 [松延动力（北京）科技有限公司 - 强化学习运控算法工程师/机器人运控算法工程师/高级强化学习算法工程师/RL长期实习生 - 实习/全职](https://mp.weixin.qq.com/s/OMikdQrYNg3X-Uu66vkjaw?scene=1&click_id=4)
 
