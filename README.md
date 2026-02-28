@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.2.28]**
+[自动驾驶独角兽Momenta招募 - 端到端规划算法方向 - 实习生](https://mp.weixin.qq.com/s/u4TuYO9Nqm61_6tVGtyg2Q)
+
 **[2026.2.26]**
 [深圳市越疆科技股份有限公司 - 机器人算法研究员/机器人算法工程师(运动规划方向)/嵌入式软件工程师(C++方向)/嵌入式软件工程师(MCU方向)等 - 2026届校招](https://mp.weixin.qq.com/s/naMnqFAeK2JG7Bdjm_xXqg)
 
