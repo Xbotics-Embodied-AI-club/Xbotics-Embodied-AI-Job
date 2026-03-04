@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.4]**
+[上海人工智能实验室 - 科学具身智能&Agent方向(本科可投) - 实习生](https://mp.weixin.qq.com/s/TmQh9kPVEbhD7ClAnEMgzw)
+
 **[2026.2.28]**
 [自动驾驶独角兽Momenta招募 - 端到端规划算法方向 - 实习生](https://mp.weixin.qq.com/s/u4TuYO9Nqm61_6tVGtyg2Q)
 
