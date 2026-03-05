@@ -117,6 +117,9 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.3.5]**
+[杭州宇树科技股份有限公司 - AI算法工程师(具身智能/AGI)/运动控制算法工程师 - 校招/社招](https://mp.weixin.qq.com/s/QKJq5TfMW5Neut8UrWyuGA)
+
+**[2026.3.5]**
 [深蓝学院 - 人形机器人Loco-Manipulation研发 - 实习生](https://mp.weixin.qq.com/s/olNnazjFfafDhvfs7mvp0g)
 
 **[2026.3.4]**
