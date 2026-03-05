@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.6]**
+[智元机器人 - 机器人系统集成工程师/机器人算法工程师(C++方向)/机器人决策算法工程师等 - 全职](https://mp.weixin.qq.com/s/OlN6DhMmTYaW9lRH-MAa-w)
+
 **[2026.3.5]**
 [杭州宇树科技股份有限公司 - AI算法工程师(具身智能/AGI)/运动控制算法工程师 - 校招/社招](https://mp.weixin.qq.com/s/QKJq5TfMW5Neut8UrWyuGA)
 
