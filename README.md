@@ -116,14 +116,17 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.5]**
+[深蓝学院 - 人形机器人Loco-Manipulation研发 - 实习生](https://mp.weixin.qq.com/s/olNnazjFfafDhvfs7mvp0g)
+
 **[2026.3.4]**
-[上海人工智能实验室 - 科学具身智能&Agent方向(本科可投) - 实习生](https://mp.weixin.qq.com/s/TmQh9kPVEbhD7ClAnEMgzw)
+[上海人工智能实验室 - 科学具身智能&Agent方向(本科可投) - 全职](https://mp.weixin.qq.com/s/TmQh9kPVEbhD7ClAnEMgzw)
 
 **[2026.3.3]**
-[广东具身风暴机器人有限公司 - 机器人算法工程师（控制+视觉/AI） - 实习生](https://mp.weixin.qq.com/s/7jW2p58WkMKiQKUEEL_sWg?scene=1)
+[广东具身风暴机器人有限公司 - 机器人算法工程师（控制+视觉/AI） - 全职](https://mp.weixin.qq.com/s/7jW2p58WkMKiQKUEEL_sWg?scene=1)
 
 **[2026.3.2]**
-[具身智能 × 教育创新，学术合作实习生正式招募 - 灵心巧手学术合作 - 实习生](https://mp.weixin.qq.com/s/XjUWy8gmWw0vq9tEftKRlg?scene=1&click_id=12)
+[具身智能 × 教育创新，学术合作实习生正式招募 - 灵心巧手学术合作 - 全职](https://mp.weixin.qq.com/s/XjUWy8gmWw0vq9tEftKRlg?scene=1&click_id=12)
 
 **[2026.3.1]**
 [北京睿尔曼智能科技有限公司 - 机器人系统测试 - 2026届校招](https://mp.weixin.qq.com/s/7giEW2eczLmAqJIgR5BBAA?scene=1)
