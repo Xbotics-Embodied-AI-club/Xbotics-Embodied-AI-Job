@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.7]**
+[自变量机器人 - 世界模型算法工程师 - 社招](https://mp.weixin.qq.com/s/YqOdJEE2hON9QQrecmWSGA)
+
 **[2026.3.6]**
 [智元机器人 - 机器人系统集成工程师/机器人算法工程师(C++方向)/机器人决策算法工程师等 - 全职](https://mp.weixin.qq.com/s/OlN6DhMmTYaW9lRH-MAa-w)
 
