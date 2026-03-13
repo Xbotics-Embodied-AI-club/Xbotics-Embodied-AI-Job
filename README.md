@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.12]**
+[高工人形机器人 - 人形机器人产业编辑/人形机器人视频编导 - 社招](https://mp.weixin.qq.com/s/HB_j5uHcdlH22_fAyDmTIQ)
+
 **[2026.3.9]**
 [智元机器人 - VLA 数据算法 - 实习生 - Base：上海](https://zhuanlan.zhihu.com/p/2014284623459393759)
 
