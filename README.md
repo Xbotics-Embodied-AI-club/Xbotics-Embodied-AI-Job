@@ -119,9 +119,6 @@ Xbotics具身智能社区内推清单
 **[2026.3.15]**
 [宇树科技 - 技术支持工程师 - 校招](https://mp.weixin.qq.com/s/PnC5q81fANHnRJIfETo-Vg)
 
-**[2026.3.15]**
-[卓驭科技 - 物理AI大模型算法/多模态大模型算法 - 校招](https://mp.weixin.qq.com/s/JBPfCvRAwdx1z0wkZZjSiA)
-
 **[2026.3,14]**
 [松灵机器人 - 具身智能算法工程师/ROS开发工程师 - 校招/实习生](https://mp.weixin.qq.com/s/LA9vR-OGN4ggzRlfNw10rA_)
 
