@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.15]**
+[宇树科技 - 技术支持工程师 - 校招](https://mp.weixin.qq.com/s/PnC5q81fANHnRJIfETo-Vg)
+
+**[2026.3.15]**
+[卓驭科技 - 物理AI大模型算法/多模态大模型算法 - 校招](https://mp.weixin.qq.com/s/JBPfCvRAwdx1z0wkZZjSiA)
+
+**[2026.3,14]**
+[松灵机器人 - 具身智能算法工程师/ROS开发工程师 - 校招/实习生](https://mp.weixin.qq.com/s/LA9vR-OGN4ggzRlfNw10rA_)
+
 **[2026.3.13]**
 [优理奇机器人 - 机械臂结构设计工程师 - 实习生](https://mp.weixin.qq.com/s/nSvsC3YCvTT-lxVtB8oNGQ)
 
