@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.18]**
+[阿里达摩院具身智能 - 大模型研发工程师/世界模型算法专家 - 社招](https://mp.weixin.qq.com/s/OvJnBTyATAwvKudaz7DxTg?scene=1)
+
+**[2026.3.18]**
+[清华大学 NLP 实验室 - 视觉-语言-动作模型（VLA） - 校招](https://mp.weixin.qq.com/s/h6X_lZ0GU0L382BYwFe_6Q?scene=1&click_id=3)
+
+**[2026.3.17]**
+[EIR四川具身人形机器人科技有限公司 - 运动控制算法工程师/高级结构工程师等 - 全职](https://mp.weixin.qq.com/s/6dRpEag8yW3jkZqudjarWA?scene=1&click_id=2)
+
+**[2026.3.16]**
+[EmbodyX 具身智能 -  机器人 AI 工程师 - 实习生](https://mp.weixin.qq.com/s/_AmGwRrALjAUxZY-M4jnXw?scene=1&click_id=1)
+
 **[2026.3.15]**
 [宇树科技 - 技术支持工程师 - 校招](https://mp.weixin.qq.com/s/PnC5q81fANHnRJIfETo-Vg)
 
