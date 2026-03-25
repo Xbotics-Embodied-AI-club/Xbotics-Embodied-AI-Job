@@ -116,6 +116,21 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.25]**
+[木兰机器人 - 沃尔玛运营 - 全职](https://mp.weixin.qq.com/s/42hahFs1WG2mqX1btsi4qw)
+
+**[2026.3.25]**
+[国巡机器人 - 嵌入式软件工程师/高级工艺工程师 - 社招](https://mp.weixin.qq.com/s/ZHtB97VHtFrv9X0oeR5h_Q)
+
+**[2026,3.24]**
+[光轮智能 - 具身智能算法工程师 - 实习/全职](https://mp.weixin.qq.com/s/6-AUavPl1hnKEcK9nsW6Kw)
+
+**[2026.3.23]**
+[地瓜机器人 - Lidar SLAM算法工程师/视觉感知算法工程师 - 社招](https://mp.weixin.qq.com/s/MiLR0TyAu8ZGcmIlXfQPOQ)
+
+**[2026.3.22]**
+[宇树科技股份有限公司 - 机器人运动控制算法工程师/深度强化学习算法工程师 - 社招](https://mp.weixin.qq.com/s/e_kN9rO3uEThn38x1CwpQg)
+
 **[2026.3.21]**
 [中科院香港创新研究院 - 机械臂控制工程师（医疗与具身机器人方向） - 全职](https://mp.weixin.qq.com/s/eRXlCiL5E29jfYe6aMPrfg)
 
