@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.3.28]**
+[海康机器人 - ROS软件开发工程师/结构设计工程师 - 社招](https://mp.weixin.qq.com/s/6-2Fhba1V-z6MIC1TPH68Q)
+
+**[2026.3.27]**
+[北京松延动力科技有限公司 - 人形机器人运控算法/RL强化学习运控算法 - 实习/社招](https://mp.weixin.qq.com/s/9BjOzW1F52jz2q3BOwitqA)
+
+**[2026.3.26]**
+[智身科技 - VLA算法工程师/大模型算法工程师 - 社招](https://mp.weixin.qq.com/s/OdKXIkZXNJbz0Ms85w7aTQ)
+
 **[2026.3.25]**
 [木兰机器人 - 沃尔玛运营 - 全职](https://mp.weixin.qq.com/s/42hahFs1WG2mqX1btsi4qw)
 
