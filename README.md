@@ -119,6 +119,9 @@ Xbotics具身智能社区内推清单
 **[2026.4.2]**
 [低空具身智能机器人中心 - 低空具身智能首席科学家（1人） - 社招](https://mp.weixin.qq.com/s/Xk78tkwdeUbGTBZA5mDm8Q?scene=1&click_id=36)
 
+**[2026.4.1]**
+[诺亦腾机器人 - 数据、模型算法研究员/模型算法工程师/模型算法实习生/触觉算法实习生/数据处理算法实习生/定位算法工程师/Android 移动端开发工程师（数据采集方向）/数据采集应用开发工程师/具身智能多模态系统测试工程师/定位算法实习生等 - 校招/社招/实习生](https://mp.weixin.qq.com/s/Z805VuYiz6kVcFAU-HSoTA?scene=1&click_id=41)
+
 **[2026.3.28]**
 [海康机器人 - ROS软件开发工程师/结构设计工程师 - 社招](https://mp.weixin.qq.com/s/6-2Fhba1V-z6MIC1TPH68Q)
 
