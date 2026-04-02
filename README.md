@@ -120,12 +120,15 @@ Xbotics具身智能社区内推清单
 [低空具身智能机器人中心 - 低空具身智能首席科学家（1人） - 社招](https://mp.weixin.qq.com/s/Xk78tkwdeUbGTBZA5mDm8Q?scene=1&click_id=36)
 
 **[2026.4.1]**
+[美的研究院 - 具身智能专家/机器人全栈工程师具身智能算法(强化学习)/具身智能-仿真工程师运动控制算法/具身智能数据采集工程师/多模态空间智能算法等 - 社招](https://mp.weixin.qq.com/s/7Qj-jYdRP44KpiRb-uepvg?scene=1&click_id=48)
+
+**[2026.4.1]**
 [南方科技大学戴建生院士团队 - 机构学与机构理论/智能结构与进化机器人/可重构制造与具身智能机器人方向 - 博士后](https://mp.weixin.qq.com/s/djyyv6eIrVGbLGubsSgGww?scene=1&click_id=44)
 
 **[2026.4.1]**
 [北京航空航天大学机械工程及自动化学院具身智能机器人研究院 - 研发工程师、F岗 - 社招](https://mp.weixin.qq.com/s/yEGfuTGVh5ghadYpxxsnCw?scene=1&click_id=42)
 
-**[2026.4.1]**
+**[2026.3.31]**
 [诺亦腾机器人 - 数据、模型算法研究员/模型算法工程师/模型算法实习生/触觉算法实习生/数据处理算法实习生/定位算法工程师/Android 移动端开发工程师（数据采集方向）/数据采集应用开发工程师/具身智能多模态系统测试工程师/定位算法实习生等 - 校招/社招/实习生](https://mp.weixin.qq.com/s/Z805VuYiz6kVcFAU-HSoTA?scene=1&click_id=41)
 
 **[2026.3.28]**
