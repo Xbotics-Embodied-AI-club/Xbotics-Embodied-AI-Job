@@ -120,6 +120,9 @@ Xbotics具身智能社区内推清单
 [奇瑞智能化研究院 - 仿真开发助理工程师/运动控制算法助理工程师/具身智能算法助理工程师/仿真开发助理工程师/动力学助理工程师/底盘硬件助理工程师等 - 2026校招](https://mp.weixin.qq.com/s/KLpyehLO3Zhn69ym3fKBqA?scene=1&click_id=49)
 
 **[2026.4.2]**
+[智元机器人 - 具身感知算法工程师/具身感知算法实习生/交互世界模型实习生等 - 实习](https://mp.weixin.qq.com/s/4z7Mocob412GALlUdRHvwA?scene=1&click_id=51)
+
+**[2026.4.2]**
 [低空具身智能机器人中心 - 低空具身智能首席科学家（1人） - 社招](https://mp.weixin.qq.com/s/Xk78tkwdeUbGTBZA5mDm8Q?scene=1&click_id=36)
 
 **[2026.4.1]**
