@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.4.2]**
+[低空具身智能机器人中心 - 低空具身智能首席科学家（1人） - 社招](https://mp.weixin.qq.com/s/Xk78tkwdeUbGTBZA5mDm8Q?scene=1&click_id=36)
+
 **[2026.3.28]**
 [海康机器人 - ROS软件开发工程师/结构设计工程师 - 社招](https://mp.weixin.qq.com/s/6-2Fhba1V-z6MIC1TPH68Q)
 
