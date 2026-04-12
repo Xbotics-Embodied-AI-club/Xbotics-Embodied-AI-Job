@@ -116,6 +116,36 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.4.12]**
+[追觅科技 - SLAM算法工程师/规划算法工程师/多传感器融合感知算法工程师/三维重建算法工程师/强化学习算法工程师 - 校招/社招](https://mp.weixin.qq.com/s/uRIIhOcmgVHw6DjanS467Q)
+
+**[2026.4.11]**
+[上纬启元 - VLA模型研究员/强化学习研究员/具身数据研究员 - 实习生](https://mp.weixin.qq.com/s/8Zxxzj9nLJCXzc5xnL7Sdg)
+
+**[2026.4.10]**
+[优必选科技 - 遥操算法工程师/运控算法工程师 - 全职](https://mp.weixin.qq.com/s/YyyWnwx5cAcqkj4bjx0mRA)
+
+**[2026.4.9]**
+[卡尔动力 - 自动驾驶感知算法实习生/预测算法工程师（端到端） - 
+
+**[2026.4.8]**
+[千寻智能 - 具身智能算法工程师/AI Infra - 实习](https://mp.weixin.qq.com/s/wU5ZNwKGsfCuUzkeQmt7rw)
+
+**[2026.4.7]**
+[众擎机器人科技有限公司 - SLAM算法工程师/自主导航算法工程师 - 全职](https://mp.weixin.qq.com/s/JkbWOZCpxg--U8sSfcaApA)
+
+**[2026.4.6]**
+[中三兵器装备集刁自动化研究所有限公司 - 硬件设计工程师/电气系统工程师/机器人结构设计 - 全职](https://mp.weixin.qq.com/s/K-kLck70XAZrtBX77T4lcw)
+
+**[2026.4.5]**
+[小米集团 - 具身智能算法研究员/语音大模型算法研究员/端到端算法研究员 - 校招](https://mp.weixin.qq.com/s/2DybXBcmszZ7YL2JIpJrlw)
+
+**[2026.4.4]**
+[字节跳动Seed大模型 - 基础大模型/视觉智能/机器学习系统 - 校招](https://mp.weixin.qq.com/s/MNzL9O0gb_1xRO7LEhRvgQ)
+
+**[2026.4.3]**
+[思谋科技 - 算法工程师/硬件工程师/产品经理 - 校招/实习](https://mp.weixin.qq.com/s/SE3ILE_nma3pN8o5qTEqSw)
+
 **[2026.4.2]**
 [奇瑞智能化研究院 - 仿真开发助理工程师/运动控制算法助理工程师/具身智能算法助理工程师/仿真开发助理工程师/动力学助理工程师/底盘硬件助理工程师等 - 2026校招](https://mp.weixin.qq.com/s/KLpyehLO3Zhn69ym3fKBqA?scene=1&click_id=49)
 
