@@ -117,6 +117,9 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.4.12]**
+[清华大学深圳国际研究生院AIoT - 陈鑫磊课题组 - 实习生](https://zhuanlan.zhihu.com/p/2020473631524800406)
+
+**[2026.4.12]**
 [追觅科技 - SLAM算法工程师/规划算法工程师/多传感器融合感知算法工程师/三维重建算法工程师/强化学习算法工程师 - 校招/社招](https://mp.weixin.qq.com/s/uRIIhOcmgVHw6DjanS467Q)
 
 **[2026.4.11]**
@@ -126,7 +129,7 @@ Xbotics具身智能社区内推清单
 [优必选科技 - 遥操算法工程师/运控算法工程师 - 全职](https://mp.weixin.qq.com/s/YyyWnwx5cAcqkj4bjx0mRA)
 
 **[2026.4.9]**
-[卡尔动力 - 自动驾驶感知算法实习生/预测算法工程师（端到端） - 
+[卡尔动力 - 自动驾驶感知算法实习生/预测算法工程师（端到端） - 实习](https://mp.weixin.qq.com/s/TW2BHLiN5099wkzesbaRBg)
 
 **[2026.4.8]**
 [千寻智能 - 具身智能算法工程师/AI Infra - 实习](https://mp.weixin.qq.com/s/wU5ZNwKGsfCuUzkeQmt7rw)
