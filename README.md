@@ -116,6 +116,24 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.4.18]**
+[可信人工智能与自主系统实验室 - 端到端AI驾驶/四足机器人Al控制/无人机自主智能/跨平台具身Al框架 - 博士后](https://mp.weixin.qq.com/s/jxKslFJU11YyoKYJq73chw)
+
+**[2026.4.17]**
+[杭州云深处科技股份有限公司 - 导航算法工程师/端到端算法工程师/SLAM算法工程师 - 全职](https://mp.weixin.qq.com/s/_h2TkyPckFVxZMTZt1iy6A)
+
+**[2026.4.16]**
+[它石智航 - 机器人强化学习算法工程师/机器人感知算法工程师/机器人运动控制算法工程师/具身VLA算法工程师 - 校招](https://mp.weixin.qq.com/s/vd254vb_YxiKpHHZrWAKkg)
+
+**[2026.4.15]**
+[阿里通义实验室 - 人形具身控制模型研发/人形具身控制模型研发/大小脑协同探索 - 实习](https://mp.weixin.qq.com/s/JRWORhIZtX9VpdZWBErZqw)
+
+**[2026.4.14]**
+[清华系具身智能人形机器人公司 - 具身算法研究员/分布式训练工程师/推理加速与部署工程师 - 全职](https://mp.weixin.qq.com/s/NUcbD8FWd5FoVjtQ-3vGnA)
+
+**[2026.4.13]**
+[海康机器人 - 机器人强化学习算法工程师/机器人运动控制算法工程师/机器人决策规划算法工程师/机器人多维感知算法工程师 - 校招](https://mp.weixin.qq.com/s/Jw2QbTEnOLT8c83ZZw5qdw)
+
 **[2026.4.12]**
 [南方科技大学戴建生院士团队 - 智能结构与进化机器人/可重构制造与具身智能机器人 - 博士后](https://mp.weixin.qq.com/s/4CixmERZWkGlt8pqZnnkeg)
 
