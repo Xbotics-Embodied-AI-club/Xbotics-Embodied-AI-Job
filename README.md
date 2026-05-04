@@ -116,6 +116,21 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.5.4]**
+[金钢科技 - 工艺工程师/硬件开发/电磁设计工程师 - 社招](https://mp.weixin.qq.com/s/I4sqk5NSb1JMaBnO-tLp_w)
+
+**[2026.5.3]**
+[智元机器人 - 具身算法工程师/运动控制算法工程师/嵌入式软件工程师 - 全职](https://mp.weixin.qq.com/s/0GiegPcldk90FM0edhG-FQ)
+
+**[2026.5.3]**
+[睿尔曼智能科技 - 控制算法工程师/VLA模型训练/云端效能开发 - 社招](https://mp.weixin.qq.com/s/UTAklkkugXCV8U1sw68jpQ)
+
+**[2026.5.3]**
+[快仓机器人 - 图像算法工程师/点云算法工程师/运控算法工程师 - 校招](https://mp.weixin.qq.com/s/f2m1g46Yaf-KNDKKcGrDaA)
+
+**[2026.5.2]**
+[中天机器人有限公司 - 机器人项目销售经理 - 全职](https://mp.weixin.qq.com/s/HwAHYE44hqTu5lj1xKItAw)
+
 **[2026.4.29]**
 [宇树科技 - 具身智能软件工程师/数据管线工程师 - 全职](https://mp.weixin.qq.com/s/cHLQUQWmXyR_TpkfuEka_w)
 
