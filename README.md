@@ -116,6 +116,24 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.5.9]**
+[杉川机器人 - 高级信息安全工程师 - 全职](https://mp.weixin.qq.com/s/G6yOFRKq7rLXR-P9Ro_R6Q)
+
+**[2026.5.9]**
+[朗毅机器人 - SLAM算法工程师/导航算法工程师 - 全职/实习](https://mp.weixin.qq.com/s/VsBKppm_d0_6NvFRYNiTuw)
+
+**[2026.5.9]**
+[ 卧安机器人 - VLA算法实习生/嵌入式开发实习生/软 - 件测试实习生 - 实习生](https://mp.weixin.qq.com/s/jY64H-6EyFvlcyJptVA-9Q)
+
+**[2026.5.7]**
+[星海图 - 强化学习算法工程师/具身智能算法工程师 /运控算法工程师 - 实习](https://mp.weixin.qq.com/s/bEg5WM2ho0RWMHoT_mXwFw)
+
+**[2026.5.6]**
+[破壳机器人 - 具身大模型算法工程师/运动控制算法工程师/slam算法工程师 - 全职](https://mp.weixin.qq.com/s/HWlaYY-amaVCBbweqs8Puw)
+
+**[2026.5.5]**
+[ 阿米奥机器人 - 机械结构工程师 - 全职](https://mp.weixin.qq.com/s/Ul4sJuGl1uOBdnCkvPtjHw)
+
 **[2026.5.4]**
 [金钢科技 - 工艺工程师/硬件开发/电磁设计工程师 - 社招](https://mp.weixin.qq.com/s/I4sqk5NSb1JMaBnO-tLp_w)
 
