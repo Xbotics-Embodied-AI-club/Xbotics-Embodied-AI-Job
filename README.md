@@ -116,6 +116,30 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+[**[2026.5.19]**
+[荣耀机器人 - 机器人强化学习算法工程师/机器人VLA和强化学习算法工程师 - 校招](https://mp.weixin.qq.com/s/K0n72lCayTTAVV3QxbGtFA)
+
+[**[2026.5.19]**
+[银河通用机器人 - 具身算法生态工程师/嵌入式软件经理 - 全职](https://mp.weixin.qq.com/s/p-W5ZSxoVCvkpFZkk8xpOw)
+
+**[2026.5.19]**
+[奇瑞墨甲机器人 - 感知算法工程师/SLAM算法工程师 - 校招](https://mp.weixin.qq.com/s/bQzAtSy8qYTqAfiGtIKthw)
+
+**[2026.5.16]**
+[卧安机器人 - 嵌入式开发实习生/软件测试实习生 - 实习](https://mp.weixin.qq.com/s/txG3BIh816MxXILM-UfVBQ)
+
+**[2026.5.16]**
+[光轮智能 - 具身智能算法实习生/具身智能嵌入式开发实习生 - 实习](https://mp.weixin.qq.com/s/qfiPfXzSJjxszdZ-dm6xlw)
+
+**[2026.5.13]**
+[中移信息技术有限公司 - VLA预训练及模型架构方向具身智能算法/人形机器人运控算法/四足机器人运控算法 - 实习](https://mp.weixin.qq.com/s/oI0P-UFkVRl8V0dIL0HdhA)
+
+**[2026.5.13]**
+[破壳机器人 - 算法开发与实现/运控库集成 - 全职](https://mp.weixin.qq.com/s/GIVq3WTkX2CYJHeP-u7BaA)
+
+**[2026.5.12]**
+[鹿明机器人 - VLA算法/机械臂运控 - 全职](https://mp.weixin.qq.com/s/Urm7aEprfSx9x9oLMkYx-A)
+
 **[2026.5.9]**
 [杉川机器人 - 高级信息安全工程师 - 全职](https://mp.weixin.qq.com/s/G6yOFRKq7rLXR-P9Ro_R6Q)
 
