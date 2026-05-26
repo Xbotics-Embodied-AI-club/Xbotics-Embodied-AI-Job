@@ -116,10 +116,28 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
-[**[2026.5.19]**
+**[2026.5.26]**
+[浙江钱江机器人有限公司 - 运控算法工程师/3D视觉算法工程师/运控算法工程师/嵌入式软件工程师 - 全职](https://mp.weixin.qq.com/s/Mfv2whDmlU8SjcAlktv2AA)
+
+**[2026.5.25]**
+[埃夫特机器人 - 软件工程师/算法工程师/数控工艺师 - 全职](https://mp.weixin.qq.com/s/bF3U-ujymv13lf1iwHoFSg)
+
+**[2026.5.24]**
+[朗毅机器人 - SLAM算法工程师/导航算法工程师/AI视觉算法工程师 - 全职/实习](https://mp.weixin.qq.com/s/V04JcHBMDyWh-IssXposhQ)
+
+**[2026.5.24]**
+[普渡机器人 - 定位算法工程师/感知算法工程师/规划算法工程师 - 社招](https://mp.weixin.qq.com/s/2xBq4rbYDk8ego1BX--J6w)
+
+**[2026.5.22]**
+[卧安机器人 - VLA算法实习生/嵌入式开发实习生/软件测试实习生 - 实习](https://mp.weixin.qq.com/s/MgEhLItpdpvwA38Zy183xQ)
+
+**[2026.5.22]**
+[NVIDIA科技公司 - 机器学习工程师 - 全职](https://mp.weixin.qq.com/s/rLtIf2ApR6f3TLF6hQzIvA)
+
+**[2026.5.19]**
 [荣耀机器人 - 机器人强化学习算法工程师/机器人VLA和强化学习算法工程师 - 校招](https://mp.weixin.qq.com/s/K0n72lCayTTAVV3QxbGtFA)
 
-[**[2026.5.19]**
+**[2026.5.19]**
 [银河通用机器人 - 具身算法生态工程师/嵌入式软件经理 - 全职](https://mp.weixin.qq.com/s/p-W5ZSxoVCvkpFZkk8xpOw)
 
 **[2026.5.19]**
