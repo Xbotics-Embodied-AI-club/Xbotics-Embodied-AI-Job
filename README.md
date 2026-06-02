@@ -116,6 +116,27 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.6.2]**
+[宇树科技 - 大模型算法工程师/深度强化学习算法 - 全职](https://mp.weixin.qq.com/s/LkmXu2fY-WKu3xFxpWvSaA)
+
+**[2026.6.1]**
+[天津锐洁芯导机器人有限公司 - 机械工程师/装配工程师/数控操机 - 全职](https://mp.weixin.qq.com/s/NPoOD9ltKLrXGYWq8GcCGQ)
+
+**[2026.6.1]**
+[节卡机器人 - 机器人培训工程师/财务管培生/电气工程师 - 校招](https://mp.weixin.qq.com/s/cSbM-fPwSeAFGm-PTc79dQ)
+
+**[2026.5.31]**
+[上纬启元 - VLA模型研究员/强化学习研究员/世界模型研究员 - 实习生](https://mp.weixin.qq.com/s/qXtjgZxSoxmjkFGAmf08sQ)
+
+**[2026.5.29]**
+[源策未来 - 运控算法负责人/硬件数采负责人 - 实习](https://mp.weixin.qq.com/s/8ER-NPnc9b_iIZxCOOlZOA)
+
+**[2026.5.27]**
+[鹿明机器人 - VLA算法工程师/高级VLA工程师 - 全职](https://mp.weixin.qq.com/s/269Z2BVzlX0X158FJk8vBg)
+
+**[2026.5.27]**
+[立德机器人 -  机械工程师/硬件工程师/嵌入式软件工程师 - 全职](https://mp.weixin.qq.com/s/K-frrWtGi_OYHxU_51DmZQ)
+
 **[2026.5.26]**
 [浙江钱江机器人有限公司 - 运控算法工程师/3D视觉算法工程师/运控算法工程师/嵌入式软件工程师 - 全职](https://mp.weixin.qq.com/s/Mfv2whDmlU8SjcAlktv2AA)
 
