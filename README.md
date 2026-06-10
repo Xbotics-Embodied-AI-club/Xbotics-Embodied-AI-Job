@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.6.10]**
+[深圳理工大学人工智能研究院具身智能中心 - 高级工程师 - 社招](https://zhuanlan.zhihu.com/p/2047984422402658929)
+
 **[2026.6.2]**
 [宇树科技 - 大模型算法工程师/深度强化学习算法 - 全职](https://mp.weixin.qq.com/s/LkmXu2fY-WKu3xFxpWvSaA)
 
