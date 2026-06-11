@@ -1,4 +1,4 @@
-<img width="555" height="64" alt="image" src="https://github.com/user-attachments/assets/b4a9da2e-2cce-478c-9fe0-64ba4c20d422" /><h1 align="center">
+<h1 align="center">
 Xbotics具身智能社区内推清单
 </h1>
 
