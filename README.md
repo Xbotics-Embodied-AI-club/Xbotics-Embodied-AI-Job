@@ -123,10 +123,10 @@ Xbotics具身智能社区内推清单
 [均胜集团 - 具身大模型推理优化专家/具身大模型算法专家（预训练方向）/具身大模型算法专家（后训练方向）/具身真机与仿真评测专家/灵巧手算法专家等 - 全职/博士后](https://mp.weixin.qq.com/s/R4Bt_0hFg4PWLn-q0nrLNw)
 
 **[2026.6.11]**
-[Sharpa Robotics  - 机器人算法工程师(Manipulation方向)/机器人算法工程师(遥操作方向)/机器人算法工程师(大模型方向)/机器人具身智能仿真工程师等 - 27届校招]
+[Sharpa Robotics  - 机器人算法工程师(Manipulation方向)/机器人算法工程师(遥操作方向)/机器人算法工程师(大模型方向)/机器人具身智能仿真工程师等 - 27届校招](https://mp.weixin.qq.com/s/9ATMCSt39EEN-zibG9aiDA)
 
 **[2026.6.11]**
-[数聚变（武汉）科技有限公司 - 具身智能数据采集员/具身智能数据审核员 - 社招]
+[数聚变（武汉）科技有限公司 - 具身智能数据采集员/具身智能数据审核员 - 社招](https://mp.weixin.qq.com/s/87s-TEGsknGh04dvUKMWgw)
 
 **[2026.6.11]**
 [西安电子科技大学广州研究院 - 实验室助理岗(1名) - 社招](https://mp.weixin.qq.com/s/9j3mwE5YniLEh36r3Z4_iQ)
@@ -135,10 +135,10 @@ Xbotics具身智能社区内推清单
 [自变量机器人 - 具身智能触觉算法工程师(触觉表征方向)/触觉力控Infra工程师/无本体数据算法工程师(Umi)等 - 社招/全职/实习](https://x2-robot.jobs.feishu.cn/index/position/list?keywords=&category=&location=&project=&functionCategory=&job_hot_flag=&tag=&store=&storeFrontListString=&type=&spread=8YA7P59&sessionid=)
 
 **[2026.6.10]**
-[北京大学工业具身智能实验室 - 力感知与接触式操作/动态物体抓取/生化实验室仿真与数据采集方向具身智能算法实习生、机器人与物理仿真方向/力学基础方向/核聚变等离子体智能控制方向PINN算法实习生 - 实习]
+[北京大学工业具身智能实验室 - 力感知与接触式操作/动态物体抓取/生化实验室仿真与数据采集方向具身智能算法实习生、机器人与物理仿真方向/力学基础方向/核聚变等离子体智能控制方向PINN算法实习生 - 实习](https://mp.weixin.qq.com/s/lVni2p2P75jdDKscFxg1-w)
 
 **[2026.6.10]**
-[宇树科技 - AI算法工程师/具身智能算法工程师/语音大模型算法工程师/视觉大模型算法工程师等 - 27届校招]
+[宇树科技 - AI算法工程师/具身智能算法工程师/语音大模型算法工程师/视觉大模型算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/3oxP8Psodq9SQXEjb0HuLQ)
 
 **[2026.6.10]**
 [茂名市鸿数科技有限公司 - 数据采集 - 社招](https://mp.weixin.qq.com/s/eYQIONLs3CZ4uru4vFWCbg)
