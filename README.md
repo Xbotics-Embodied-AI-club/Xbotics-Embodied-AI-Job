@@ -116,8 +116,27 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.6.15]**
+[数聚变（武汉）科技有限公司 - 具身智能数据采集员/具身智能数据审核员 - 社招](https://mp.weixin.qq.com/s/fvVteu4eK2aBBMfaq-nxLw)
+
+**[2026.6.15]**
+[卧安机器人 - 算法实习生(VLA、VLN、世界模型、数据)/规划导航控制算法实习生/数据标注实习生/AI产品实习生 - 实习](https://mp.weixin.qq.com/s/zamY1Q7avzpRAsCn6hb1lw)
+
+**[2026.6.15]**
+[中国科学院香港创新研究院人工智能与机器人创新中心（CAIR） - 多模态医学大模型/具身智能手术机器
+人(控制/感知)工程师等 - 博士后/社招](https://mp.weixin.qq.com/s/I4-xNQXtIPwyN8y3DDcKoQ)
+
+**[2026.6.14]**
+[启元实验室自主系统中心具身智脑团队 - 机器人智能决策规划算法研究员/工程师、机器人具身智能体系统研究员/工程师等 - 校招、社招、实习生、博士后](https://mp.weixin.qq.com/s/PJZDmG1k3aH3C-R9sDKY5w)
+
+**[2026.6.14]**
+[小米集团 - MiClaw-大模型训练推理方向/NLP算法工程师/AI图像算法工程师/AI Agent开发/影像算法工程师/语音多模态算法工程师/运动健康算法工程师机器学习算法工程师 - 实习](https://mp.weixin.qq.com/s/prp54yjXwnou4vuILmzO3g)
+
+**[2026.6.13]**
+[北大工业具身智能实验室（PI-Lab） - 具身智能算法/PINN算法方向 - 实习生](https://mp.weixin.qq.com/s/07Ov3nQp53MbaDyUBe4yWg)
+
 **[2026.6.11]**
-[清华AIR AIoT团队 - 大模型部署与推理系统/智能体系统/多模态理解与生成大模型/科学智能与世界模型 -研究助理(RA)/博士后/实习生](https://mp.weixin.qq.com/s/fHG7GlCcwcActqMYMTGpwA)
+[清华AIR AIoT团队 - 大模型部署与推理系统/智能体系统/多模态理解与生成大模型/科学智能与世界模型 - 研究助理(RA)/博士后/实习生](https://mp.weixin.qq.com/s/fHG7GlCcwcActqMYMTGpwA)
 
 **[2026.6.11]**
 [均胜集团 - 具身大模型推理优化专家/具身大模型算法专家（预训练方向）/具身大模型算法专家（后训练方向）/具身真机与仿真评测专家/灵巧手算法专家等 - 全职/博士后](https://mp.weixin.qq.com/s/R4Bt_0hFg4PWLn-q0nrLNw)
