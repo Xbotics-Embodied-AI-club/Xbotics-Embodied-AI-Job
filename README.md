@@ -116,6 +116,36 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.6.23]**
+[湖北锋元具身机器人有限公司 - 电气工程师/工业机器人调试工程师 - 社招](https://mp.weixin.qq.com/s/0Qx9qx7TnIgpeeoqEcgpgQ)
+
+**[2026.6.23]**
+[千寻智能 - 具身智能算法岗/软件开发岗/硬件开发岗等 - 2027届校招](https://mp.weixin.qq.com/s/kjBOACP8fwTwJxIsX5Pzhw)
+
+**[2026.6.20]**
+[吉安核数集信息科技有限公司 - 数据采集（具身数据采集实习生） - 实习生](https://mp.weixin.qq.com/s/xrn2869WoIY_ZRSFshuC4A)
+
+**[2026.6.19]**
+[南京理工大学江苏省智能交通与车联网工程研究中心 - 科研助理岗（具身智能工程师）/科研助理岗(嵌入式工程师)/科研助理岗（大模型智能体工程师）/视觉工程师（计算机视觉算法方向） - 校招/社招](https://mp.weixin.qq.com/s/ait5sZq35qmbJGBHZM35Xw)
+
+**[2026.6.19]**
+[苏州灵猴机器人 - 机械结构、电气、嵌入式软件、硬件、SLAM算法等 - 社招](https://mp.weixin.qq.com/s/nS7-LwBgBu8Hn6kDZ1LKVg)
+
+**[2026.6.18]**
+[复旦大学脑智研究院赵梦迪课题组 - 计算神经科学与具身智能 - 博士后、实习生](https://mp.weixin.qq.com/s/ogyT5Z8K6RRWpl76aV9oWg)
+
+**[2026.6.18]**
+[清华证研院科创企业产融创新课题组 - 人工智能、具身智能方向 - 博士后](https://mp.weixin.qq.com/s/-CM0tA85CJ9lIDztsBHB2w)
+
+**[2026.6.18]**
+[腾讯Robotics X - 技术研究-机器人方向实习生、具身大模型评测与数据工程师(深圳)等 - 校招/社招](https://mp.weixin.qq.com/s/ZqdYhIoE8CL7yrjuP-yN_Q)
+
+**[2026.6.18]**
+[中国科学技术大学先进技术研究院具身机器人与智能系统工程技术中心 - 机械结构工程师/硬件工程师/嵌入式软件工程师/软件工程师 - 社招](https://mp.weixin.qq.com/s/n0_zro2C4_6FL0VeWInNkQ)
+
+**[2026.6.17]**
+[宇树科技 - AI算法工程师/具身智能算法工程师/语音大模型算法工程师/视觉大模型算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/QmuBya2jwSsmQ95tXEaP2A)
+
 **[2026.6.15]**
 [数聚变（武汉）科技有限公司 - 具身智能数据采集员/具身智能数据审核员 - 社招](https://mp.weixin.qq.com/s/fvVteu4eK2aBBMfaq-nxLw)
 
