@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.6.29]**
+[北大董豪组 - 计算机视觉、机器人和具身智能方向 - 科研助理](https://mp.weixin.qq.com/s/q2OX2BoOFjxjnd1Yeoukeg)
+
 **[2026.6.28]**
 [启迪实验室 - 物理仿真下的手-物交互研究-科研助理（1名）/地机器人结构优化与抗扰控制研究-科研助理（1名）/连续体机器人控制与规划-科研助理（1名）/多智能体博弈算法设计-科研助理（1名）-实习](https://mp.weixin.qq.com/s/tKaalh38WQzEKYCL9XlWwg)
 
