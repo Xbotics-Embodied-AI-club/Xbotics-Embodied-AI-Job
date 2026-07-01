@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.7.1]**
+[昆山鑫泰利智能科技 - OpenClaw 部署⼯程师 - 全职](./2025/昆山鑫泰利智能科技)
+
 **[2026.6.29]**
 [北大董豪组 - 计算机视觉、机器人和具身智能方向 - 科研助理](https://mp.weixin.qq.com/s/q2OX2BoOFjxjnd1Yeoukeg)
 
