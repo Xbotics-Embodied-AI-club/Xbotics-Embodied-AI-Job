@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.7.2]**
+[小米 - 具身智能/智能驾驶方向 - 应届生](https://mp.weixin.qq.com/s/Neu6PaucRl_YxdCz_GTAHw)
+
+**[2026.7.1]**
+[南京大学计算机学院 - 具身智能工程师 - 全职](https://mp.weixin.qq.com/s/rAgvRFuZYRw7s5u-g4bhmA)
+
 **[2026.7.1]**
 [昆山鑫泰利智能科技 - OpenClaw 部署⼯程师 - 全职](./2025/昆山鑫泰利智能科技)
 
