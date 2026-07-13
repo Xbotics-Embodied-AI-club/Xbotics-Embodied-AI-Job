@@ -116,6 +116,33 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.7.13]**
+[ 中科硅纪 - MCU嵌入式开发工程师/资深非标自动化机械工程师|机器人应用方向/机器人具身算法工程师/机械设计工程师 - 社招](https://mp.weixin.qq.com/s/V3bZZJsXd5BOo3vGgiHgPA)
+
+**[2026.7.13]**
+[自变量机器人 - VLA 算法工程师/世界模型算法工程师/灵巧手算法工程师/大模型Infra 工程师/强化学习算法工程师/运控算法工程师等 - 27届校招/暑假实习生](https://mp.weixin.qq.com/s/FddqYvT62b4eBKN_JlqiAA)
+
+**[2026.7.12]**
+[南京大学 - 具身智能/大模型方向 - 2027年申请考核制博士](https://mp.weixin.qq.com/s/IL3wzTgxXgnYUPcIw5xwvg)
+
+**[2026.7.12]**
+[中豫具身智能实验室 - 具身智能/机器人 - 博士研究生22名](https://mp.weixin.qq.com/s/oqz9cjGZAgvIo-_PUOoeag)
+
+**[2026.7.10]**
+[伽利略 - 运控/具身/导航算法岗 - 2027校招](https://mp.weixin.qq.com/s/iH_YSzSV2lLpCq3U9oO2ig)
+
+**[2026.7.9]**
+[德壹机器人郑州 - AI理疗机器人销售/AI机器人培训讲师 - 社招](https://mp.weixin.qq.com/s/AGaxWE-zyUYQj3Pvn6oHTQ)
+
+**[2026.7.9]**
+[浙江大学机器人研究院 - 具身智能大模型/机器人逻辑推理与协同策略规划/机器人感知算法/导航算法等 - 2026年度博士人才招聘](https://mp.weixin.qq.com/s/rkklk9fRWEMnQv-4qyJ4Sg)
+
+**[2026.7.9]**
+[中国科学院工业人工智能研究所 - 具身智能操作系统/大模型/智能算法等 - 博士后/研究员](https://mp.weixin.qq.com/s/43QrshZtTAsIjryalbgtOg)
+
+**[2026.7.8]**
+[南京大学计算机学院 - 具身智能工程师 - 社招](https://mp.weixin.qq.com/s/z0UezWgNG6QdClwaf6JM2g)
+
 **[2026.7.2]**
 [小米 - 具身智能/智能驾驶方向 - 应届生](https://mp.weixin.qq.com/s/Neu6PaucRl_YxdCz_GTAHw)
 
