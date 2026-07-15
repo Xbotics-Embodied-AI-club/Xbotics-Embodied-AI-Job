@@ -117,6 +117,12 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.7.15]**
+[小米 - 具身智能&智能驾驶方向 - 校招/应届生/实现](https://mp.weixin.qq.com/s/1U1HR6PktE565aUS2Kx2CQ)
+
+**[2026.7.15]**
+[中煤科工机器人科技有限公司 - 具身智能算法工程师 - 社招](https://mp.weixin.qq.com/s/47szgWUuxoNJ2IAB6Ofmhw)
+
+**[2026.7.15]**
 [智元 - 研究类/算法类/软件类/硬件类等 - 2027届校招](https://mp.weixin.qq.com/s/Qkag6Tg4LXGLtEpQNPM77Q)
 
 **[2026.7.14]**
