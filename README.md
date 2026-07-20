@@ -125,6 +125,15 @@ Xbotics具身智能社区内推清单
 **[2026.7.19]**
 [卓驭科技 - 算法类/软件类/机电类等 - 27届校招](https://mp.weixin.qq.com/s/NC8uk8B2350qmhPi44K78A)
 
+**[2026.7.18]**
+[香港理工IEEE Fellow周立培教授团队 - 具身智能 - 博士生](https://mp.weixin.qq.com/s/9DqnW3kBLVBkpuULino-hw)
+
+**[2026.7.18]**
+[南京大手机器人有限公司 - 具身智能 - 实习生](https://mp.weixin.qq.com/s/uoC2ZT4KfOvK0uhiG5OkrA)
+
+**[2026.7.17]**
+[BrainCo - 具身智能算法 - 校招](https://mp.weixin.qq.com/s/jdEogRHz-8CZtOk3e9HX-A)
+
 **[2026.7.17]**
 [自变量机器人 - VLA算法工程师/世界模型算法工程师/灵巧手算法工程师/大模型Infra 工程师/强化学习算法工程师/运控算法工程师/嵌入式软件工程师/机械结构工程师 - 暑假实习生/27届校招](https://mp.weixin.qq.com/s/bTJ99gGQcIkIiUzNnNZcRw)
 
