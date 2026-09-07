@@ -115,6 +115,11 @@ Xbotics具身智能社区内推清单
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+**[2026.9.7]**
+[常春藤（河北雄安）机器人科技有限公司 - 机器人工程师 - 社招](https://mp.weixin.qq.com/s/zitXu2FX5iS5ak8FyOJB0Q)
+
+**[2026.9.7]**
+[浙江环动机器人关节科技股份有限公司 - 技术研发类/工艺技术类等 - 27届校招](https://mp.weixin.qq.com/s/L_3Yk5hv8HK2iHbBZ6Ed5A)
 
 **[2026.9.5]**
 [清华具身项目 - 机器人与智能系统仿真研发 - 实习](https://mp.weixin.qq.com/s/c8y8WJDEiWmSsnC10R9G1g)
