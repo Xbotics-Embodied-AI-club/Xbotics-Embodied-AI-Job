@@ -116,6 +116,24 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.5]**
+[清华具身项目 - 机器人与智能系统仿真研发 - 实习](https://mp.weixin.qq.com/s/c8y8WJDEiWmSsnC10R9G1g)
+
+**[2026.9.5]**
+[北京大学大数据分析与应用技术国家实验室 - AI4material 材料数据/具身智能/机器人控制方向 - 学生助理/实习](https://mp.weixin.qq.com/s/v25qw1jcV2N0w36uEDStYw)
+
+**[2026.9.4]**
+[杭州智元研究院 - 大模型/机器人/控制等方向 - 27届校招](https://mp.weixin.qq.com/s/iA4DOGewMv7Z__qtd5J0_g)
+
+**[2026.9.4]**
+[方矩研究院 - 具身VLA/世界模型/具身WAM等 - 实习](https://mp.weixin.qq.com/s/M9IOuSLmXpcTZP0frzS6zw)
+
+**[2026.9.3]**
+[启元机器人 - 研发类/算法类/软件类/硬件类等 - 27届校招](https://mp.weixin.qq.com/s/TfoG89H1ZMLZwkDWG4JDLg)
+
+**[2026.9.1]**
+[具脑磐石 - 具身模型与脑启发智能/具身应用算法与场景落地/脑机交互与机器人系统/数据与训练推理基础设施/运动控制与真机交付等方向 - 社招/校招](https://mp.weixin.qq.com/s/mO-VcX77bIhMIN5r05D6Uw)
+
 **[2026.9.1]**
 [上海 AI Lab - 具身智能研究(Agentic 仿真与 Real2Sim2Real/机器人视触觉与物理交互/VLA/WAM 训练与部署方向）- 实习生](https://www.xiaohongshu.com/discovery/item/6a964a2b0000000028034a31?source=webshare&xhsshare=pc_web&xsec_token=ABcq1gpo-YCm2HB4ygHJHQC8c2PNy02lHb1CiQPt1h3Ys=&xsec_source=pc_share)
 
