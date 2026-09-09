@@ -115,6 +115,10 @@ Xbotics具身智能社区内推清单
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+
+**[2026.9.9]**
+[傅利叶智能 - 运动控制算法工程师/Agent开发工程师/具身智能算法工程师/系统集成工程师等 - 2027校招](https://mp.weixin.qq.com/s/MHC8s14GXeIAmz0m7ZKrUg)
+
 **[2026.9.7]**
 [常春藤（河北雄安）机器人科技有限公司 - 机器人工程师 - 社招](https://mp.weixin.qq.com/s/zitXu2FX5iS5ak8FyOJB0Q)
 
