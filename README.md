@@ -116,6 +116,12 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.10]**
+[至简动力 - 具身智能算法/世界模型/具身感知/强化学习等方向 - 27届校招](https://www.xiaohongshu.com/discovery/item/6aa13386000000000b002a1a?source=webshare&xhsshare=pc_web&xsec_token=ABQXKFteyB3jixqyhpaJQhokKNLBGZ7PSYJR2CCAKWCKw=&xsec_source=pc_share)
+
+**[2026.9.10]**
+[破晓智能 - 世界模型/触觉灵巧操作/人形机器人全身移动操作方向 - 实习生](https://www.xiaohongshu.com/discovery/item/6aa15fe9000000002700887b?source=webshare&xhsshare=pc_web&xsec_token=ABQXKFteyB3jixqyhpaJQhomTlyUkvFKodoT9PbL5jDOc=&xsec_source=pc_share)
+
 **[2026.9.9]**
 [傅利叶智能 - 运动控制算法工程师/Agent开发工程师/具身智能算法工程师/系统集成工程师等 - 2027校招](https://mp.weixin.qq.com/s/MHC8s14GXeIAmz0m7ZKrUg)
 
