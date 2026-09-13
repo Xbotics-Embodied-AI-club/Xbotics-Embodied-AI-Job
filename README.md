@@ -116,6 +116,36 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.14]**
+[北京深诣机器人 - 具身模型/具身系统/具身本体 - 27届校招](https://mp.weixin.qq.com/s/qyren3AsTk2WTdiznk_Jkw)
+
+**[2026.9.14]**
+[西安航天自动化股份有限公司 - 软件设计开发/机器人设计开发/智能控制器设计开发等 - 27届校招](https://mp.weixin.qq.com/s/JK_GYXqPM8LCv2ZRJoI3Gg)
+
+**[2026.9.14]**
+[仙工智能 - VLA算法工程师/SLAM算法工程师/Agent开发工程师/机械臂算法工程师/数据模型算法工程师/相机感知算法工程师等 - 全职/实习/校招](https://mp.weixin.qq.com/s/KkkjUVwmR82ADnz_KH-mWA)
+
+**[2026.9.14]**
+[珠海长隆人形机器人项目 - 机器人操控与运维 - 实习生](https://mp.weixin.qq.com/s/k7yAA0dtTdsHgXarBEF4Nw)
+
+**[2026.9.13]**
+[北京金钢科技有限公司 - 机器人强化学习/运动控制/感知方向/测试方向/嵌入式软件/算法等 - 27届校招](https://mp.weixin.qq.com/s/CtMXD7pGlO9O9o-F_NrY1g)
+
+**[2026.9.13]**
+[虹软科技 - 智能驾驶感知算法工程师/智能驾驶深度学习算法工程师/端到端自动驾驶算法工程师/具身智能(机器人)大脑算法工程师等 - 27届校招](https://mp.weixin.qq.com/s/PH0bCyfacSq8F1Jkmp6EtQ)
+
+**[2026.9.13]**
+[厦门松霖科技股份公司 - 感知融合算法工程师/规划控制算法工程师/嵌入式软件工程师/结构研发工程师 - 校招](https://mp.weixin.qq.com/s/c9BQsMBo0BWsnoevBzWN_g)
+
+**[2026.9.13]**
+[普渡机器人 - 算法类/项目类/软件类/测试类等 - 27届校招/实习](https://mp.weixin.qq.com/s/EM8g8tLsbczbfccww1sm-A)
+
+**[2026.9.13]**
+[厦门航天思尔特机器人系统股份公司 - 机械设计工程师/专利工程师/售后工程师/方案设计工程师/销售总监 - 社招](https://mp.weixin.qq.com/s/upjCirLV5BVkBL0GuZ4eyw)
+
+**[2026.9.11]**
+[清华大学数据科学与智能实验室FIB LAB - 大规模通用世界模型预训练/具身世界模型/科学世界模型方向 - 博士后](https://mp.weixin.qq.com/s/QtW9kQCPlJpkR3o8yPZHXg)
+
 **[2026.9.10]**
 [至简动力 - 具身智能算法/世界模型/具身感知/强化学习等方向 - 27届校招](https://www.xiaohongshu.com/discovery/item/6aa13386000000000b002a1a?source=webshare&xhsshare=pc_web&xsec_token=ABQXKFteyB3jixqyhpaJQhokKNLBGZ7PSYJR2CCAKWCKw=&xsec_source=pc_share)
 
