@@ -122,6 +122,9 @@ Xbotics具身智能社区内推清单
 **[2026.9.17]**
 [量子位Robo团队 - 产业/科技作者（机器人与智能汽车方向）/视频编导/视觉主创（机器人与智能汽车方向）- 社招](https://mp.weixin.qq.com/s/nN6Ups19wmNYqn223i0PBw)
 
+**[2026.9.17]**
+[科大讯飞 - 具身智能VLM算法/VLN 算法/数据 - 实习生 - base:苏州/合肥](https://www.xiaohongshu.com/discovery/item/6aaa67b8000000000b0039e6?source=webshare&xhsshare=pc_web&xsec_token=ABcKLcAbTq620SBMsFhk9nndgooCUlCjqC2BsiL7XChVA=&xsec_source=pc_share)
+
 **[2026.9.16]**
 [诺因智能 - 导航算法工程师/移动操作算法工程师/具身算法工程师(技能交互方向)/大模型算法工程师(多模态/语言大模型)/语音算法工程师/具身Agent 算法研究员等 - 27届校招](https://mp.weixin.qq.com/s/gOGxOY3NZS72g2oA486ZtA)
 
