@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.18]**
+[特斯拉 - 电动车、能源、机器人、人工智能 - 27届校招](https://mp.weixin.qq.com/s/1h9bICFitym_cF3wjZ3SvA)
+
 **[2026.9.17]**
 [安徽白泽通境科技有限公司 - 具身数据采集工程师/具身数据管线工程师/世界模型预训练算法工程师/世界模型后训练算法工程师/世界模型真机部署工程师 - 社招](https://mp.weixin.qq.com/s/vDxAV3NNHfa4ecGneY8Zug)
 
