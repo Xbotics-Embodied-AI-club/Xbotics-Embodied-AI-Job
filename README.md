@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.21]**
+[北京人形机器人创新中心 - 世界模型 - 实习生](https://mp.weixin.qq.com/s/aHiqZ293ZW9t36xnbysD3g)
+
 **[2026.9.18]**
 [特斯拉 - 电动车、能源、机器人、人工智能 - 27届校招](https://mp.weixin.qq.com/s/1h9bICFitym_cF3wjZ3SvA)
 
