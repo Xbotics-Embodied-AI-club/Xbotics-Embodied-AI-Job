@@ -117,7 +117,30 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.9.21]**
+[北京大学大数据分析与应用技术国家实验室 - 研究力控双臂、阻抗/力位混合控制、柔顺交互算法，VLA视觉-语言-动作大模型、灵巧操作、模仿学习等方向 - 科研实习生](https://mp.weixin.qq.com/s/M9fS15FWhEonYUNyy2V3JQ)
+
+**[2026.9.21]**
+[宜宾数字经济产业发展集团有限公司 - 具身智能研发/大模型算法/运维等方向 - 社招](https://mp.weixin.qq.com/s/FZvgjaoWQ-Ah_rasOlCK4g)
+
+[自变量机器人 - 多模态具身理解与推理/具身 Agent Harness/具身模型后训练与强化学习/具身 Agent 自进化与递归自我改进（RSI）等方向 - 实习 - Base：深圳/北京]
+
+**[2026.9.21]**
+[新郑市具身智能产业基地 - 数据采集员/试采员/审核员 - 实习](https://mp.weixin.qq.com/s/Jfwkm0jZs8wbAVyF_zWsCw)
+
+**[2026.9.21]**
+[大连市复杂工业场景具身智能重点实验室 - 工业机器人操作、多模态感知与决策、机械臂控制、视觉-语言-动作模型等 - 科研助理](https://mp.weixin.qq.com/s/18G134nCQoQ3DtYyzCSQwA)
+
+**[2026.9.21]**
+[微软亚洲研究院 - 具身智能、人工智能、机器学习、自然语言处理、计算机视觉、系统与网络等方向 - 27届校招/研究员](https://mp.weixin.qq.com/s/rkdGA-iC-5SxlAwAhFs7fg)
+
+**[2026.9.20]**
+[中国科学院软件研究所 - 具身系统研发工程师（1人） - 全职](https://mp.weixin.qq.com/s/1nvV_RwDBnG6yzYvQvTI_w)
+
+**[2026.9.20]**
 [北京人形机器人创新中心 - 世界模型 - 实习生](https://mp.weixin.qq.com/s/aHiqZ293ZW9t36xnbysD3g)
+
+**[2026.9.19]**
+[深圳理工大学人工智能研究院具身智能中心 - 具身智能工程师 - 全职](https://mp.weixin.qq.com/s/NJ1yOGyU8Y8xnry_bvqJWQ)
 
 **[2026.9.18]**
 [特斯拉 - 电动车、能源、机器人、人工智能 - 27届校招](https://mp.weixin.qq.com/s/1h9bICFitym_cF3wjZ3SvA)
