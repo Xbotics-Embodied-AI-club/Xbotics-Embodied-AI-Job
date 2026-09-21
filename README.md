@@ -117,6 +117,9 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.9.21]**
+[北京人形机器人 - 具身强化学习算法 - 实习生](https://www.xiaohongshu.com/discovery/item/6ab0c8020000000034000c4e?source=webshare&xhsshare=pc_web&xsec_token=ABtgGxHR90Eu6JaQb8yr24mqq8iIfvaUL6XRrZHesmbTQ=&xsec_source=pc_share)
+
+**[2026.9.21]**
 [自变量机器人 - 多模态具身理解与推理/具身 Agent Harness/具身模型后训练与强化学习/具身 Agent 自进化与递归自我改进（RSI）等方向 - 实习 - Base：深圳/北京](https://mp.weixin.qq.com/s/D3PEdW5Wy-u2Tyhmt1dieg)
 
 **[2026.9.21]**
