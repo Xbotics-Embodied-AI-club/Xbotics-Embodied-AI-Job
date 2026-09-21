@@ -117,12 +117,13 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.9.21]**
+[自变量机器人 - 多模态具身理解与推理/具身 Agent Harness/具身模型后训练与强化学习/具身 Agent 自进化与递归自我改进（RSI）等方向 - 实习 - Base：深圳/北京](https://mp.weixin.qq.com/s/D3PEdW5Wy-u2Tyhmt1dieg)
+
+**[2026.9.21]**
 [北京大学大数据分析与应用技术国家实验室 - 研究力控双臂、阻抗/力位混合控制、柔顺交互算法，VLA视觉-语言-动作大模型、灵巧操作、模仿学习等方向 - 科研实习生](https://mp.weixin.qq.com/s/M9fS15FWhEonYUNyy2V3JQ)
 
 **[2026.9.21]**
 [宜宾数字经济产业发展集团有限公司 - 具身智能研发/大模型算法/运维等方向 - 社招](https://mp.weixin.qq.com/s/FZvgjaoWQ-Ah_rasOlCK4g)
-
-[自变量机器人 - 多模态具身理解与推理/具身 Agent Harness/具身模型后训练与强化学习/具身 Agent 自进化与递归自我改进（RSI）等方向 - 实习 - Base：深圳/北京]
 
 **[2026.9.21]**
 [新郑市具身智能产业基地 - 数据采集员/试采员/审核员 - 实习](https://mp.weixin.qq.com/s/Jfwkm0jZs8wbAVyF_zWsCw)
