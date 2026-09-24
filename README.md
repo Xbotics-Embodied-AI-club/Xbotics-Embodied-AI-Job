@@ -116,7 +116,10 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
-**[2026.9.21]**
+**[2026.9.24]**
+[北京理工大学姚裕贵院士团队 - 物理AI模型算法研究人员/具身智能算法与系统研究人员 - 科研人员/社招](https://mp.weixin.qq.com/s/1L8lnOE7l3dD4F_3pJAeKw)
+
+**[2026.9.22]**
 [北京人形机器人 - 具身强化学习算法 - 实习生](https://www.xiaohongshu.com/discovery/item/6ab0c8020000000034000c4e?source=webshare&xhsshare=pc_web&xsec_token=ABtgGxHR90Eu6JaQb8yr24mqq8iIfvaUL6XRrZHesmbTQ=&xsec_source=pc_share)
 
 **[2026.9.21]**
