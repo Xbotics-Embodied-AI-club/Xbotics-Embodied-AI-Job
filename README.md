@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.9.28]**
+[智身科技 - 四足/人形/仿真平台等 - 2027校招](https://mp.weixin.qq.com/s/gV4AG4WUiOdA_Zi_7JL7cA)
+
+**[2026.9.26]**
+[启元实验室 - 机器人技术类/人工智能算法类/大数据类/软件开发类 - 27届校招 - Base：北京](https://mp.weixin.qq.com/s/r_zaTBzPlV236WxsDh-Z1g)
+
+**[2026.9.25]**
+[阿里巴巴达摩院 - 大模型RL、Agent、AI4Science等五个方向 - 实习 - base：北京、杭州](https://mp.weixin.qq.com/s/jkLKbyA05lkFdPvRfmC5HQ)
+
 **[2026.9.24]**
 [北京理工大学姚裕贵院士团队 - 物理AI模型算法研究人员/具身智能算法与系统研究人员 - 科研人员/社招](https://mp.weixin.qq.com/s/1L8lnOE7l3dD4F_3pJAeKw)
 
