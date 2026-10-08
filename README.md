@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.10.6]**
+[智身科技 - 软件/算法类/本体研发类/产品项目类/研发支持类/营销方案类 - 27届校招](https://mp.weixin.qq.com/s/IZ1--yxWOq6-7rF36sv8Uw)
+
+**[2026.10.5]**
+[全脑城市实验室 - 具身智能研究-  实习生](https://mp.weixin.qq.com/s/d3Wkn2Ui65dVF9zm7ne0dw)
+
+**[2026.10.3]**
+[炬坤机器人 - 算法类：具身智能算法工程师、视觉算法工程师、电机控制算法工程师;研发工程类：机械设计工程师、电机研发工程师、触觉传感器工程师、电子硬件工程师;软件类：机器人软件工程师、嵌入式软件工程师 - 27届校招](https://mp.weixin.qq.com/s/wzS56ONnB5g9_-O7FnwI1A)
+
 **[2026.9.28]**
 [智身科技 - 四足/人形/仿真平台等 - 2027校招](https://mp.weixin.qq.com/s/gV4AG4WUiOdA_Zi_7JL7cA)
 
