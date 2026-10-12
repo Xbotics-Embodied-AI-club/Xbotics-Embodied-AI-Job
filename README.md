@@ -119,8 +119,17 @@ Xbotics具身智能社区内推清单
 **[2026.10.12]**
 [四川具身人形机器人科技有限公司 - 动控制算法、软件架构师、C++、项目经理等 - 校招/社招](https://mp.weixin.qq.com/s/lDmimvlx0boAiTrUKo71Ew)
 
+**[2026.10.11]**
+[上海AI Lab - 具身数据引擎InternData-A2 - 研究实习生](https://mp.weixin.qq.com/s/IWHH2bQhxOsTx3fffOCDGg)
+
 **[2026.10.10]**
 [湖北人形机器人创新中心 - 具身智能数据采集员/具身智能数据审核员 - 校招/社招](https://mp.weixin.qq.com/s/6aYapI8isZbxv3xsW-N9qA)
+
+**[2026.10.10]**
+[智身科技 - 具身智能领域 - 27届校招](https://mp.weixin.qq.com/s/h_jd4TloA4cOMvaXOMy9sw)
+
+**[2026.10.9]**
+[浙江具身智能数据运营有限公司 - 运营副总/算法工程师（具身智能方向）/项目经理 - 社招](https://mp.weixin.qq.com/s/jJnGM2eBkZxaMRGaL-166g)
 
 **[2026.10.9]**
 [龙旗科技 - 系统集成测评工程师/嵌入式与电机电控系统工程师/电源与热管理工程师/具身大模型算法工程师/具身数据分析工程师/运控导航定位算法工程师/运控动力学算法工程师/机械臂结构设计工程师等 - 校招/社招/全职](https://mp.weixin.qq.com/s/4jIN-5OLDeLjAppgnlhdxw)
