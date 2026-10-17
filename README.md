@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘
 
+**[2026.10.17]**
+[四川九天具身智能科技有限公司 - 机械机构工程师/电机驱动软件开发工程师/机器人嵌入式软件工程师/产品经理（轨道机器人） - 社招/全职](https://mp.weixin.qq.com/s/5nnCht_DAk1TWYHrbo98AA)
+
+**[2026.10.17]**
+[孪数具身智能机器人（重庆）有限公司 - 具身智能解决方案经理 - 社招](https://mp.weixin.qq.com/s/5fU5GVQFVjpfNbyQyXedsg)
+
+**[2026.10.15]**
+[如身机器人 - 智能与软件 / 电子与机械 / 测试与产品 / 应用制造与数据方向 - 27届校招](https://mp.weixin.qq.com/s/Xk5S1D0f5u5D_Fv3J2hvNw)
+
+**[2026.10.15]**
+[陕西电子信息教育投资集团有限公司 - 算法工程师(具身模型方向应用)/算法工程师(具身Agent方向)/嵌入式开发工程师(机器人产品方向)/软件开发工程师(Agent编排方向) - 社招](https://mp.weixin.qq.com/s/xpuafTqHqs6PsIpb5lPJXQ)
+
 **[2026.10.12]**
 [四川具身人形机器人科技有限公司 - 动控制算法、软件架构师、C++、项目经理等 - 校招/社招](https://mp.weixin.qq.com/s/lDmimvlx0boAiTrUKo71Ew)
 
