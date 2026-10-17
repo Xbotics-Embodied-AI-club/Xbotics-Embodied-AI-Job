@@ -117,10 +117,22 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘
 
 **[2026.10.17]**
+[自然意志 - 通用模型测试工程师/AGI Infra工程师（具身智能方向）/基座模型研究员/仿真开发工程师/机器人软件与系统工程师/触觉传感器工程师/结构工程师/数据采集运营负责人等 - 全职/实习/社招/校招 - base：北京/深圳](https://www.xiaohongshu.com/discovery/item/6ad36109000000001a022e3c?source=webshare&xhsshare=pc_web&xsec_token=ABoRM2V971zkmwWPcj0df_zVqWjH-WGXmU9EbE9bDSFOg=&xsec_source=pc_share)
+
+**[2026.10.17]**
 [四川九天具身智能科技有限公司 - 机械机构工程师/电机驱动软件开发工程师/机器人嵌入式软件工程师/产品经理（轨道机器人） - 社招/全职](https://mp.weixin.qq.com/s/5nnCht_DAk1TWYHrbo98AA)
 
 **[2026.10.17]**
 [孪数具身智能机器人（重庆）有限公司 - 具身智能解决方案经理 - 社招](https://mp.weixin.qq.com/s/5fU5GVQFVjpfNbyQyXedsg)
+
+**[2026.10.16]**
+[枢途科技 - 机器人算法应用工程师/机器人仿真工程师/机器人强化学习工程师/机器人平台开发工程师/机器人运控算法工程师/嵌入式软件工程师/硬件工程师/具身模型算法工程师/产品经理 - 全职/实习](https://www.xiaohongshu.com/discovery/item/6ad1cb790000000015017215?source=webshare&xhsshare=pc_web&xsec_token=ABHXQB0mGPQPEZa8hjuiJB2VfUknORZpsRX0v66zk7Ttg=&xsec_source=pc_share)
+
+**[2026.10.16]**
+[香港科技大学（广州）AI4City 实验室 - VLA 与具身智能研究/校园机器人开发 -科研助理](https://www.xiaohongshu.com/discovery/item/6ad22fb70000000019027c95?source=webshare&xhsshare=pc_web&xsec_token=AB8NVBcbbUKGHBOTRMp8ji8ecgVaEURTk7-uKbERIqu5w=&xsec_source=pc_share)
+
+**[2026.10.16]**
+[宇称守恒团队 -  VLA 具身智能算法实习生/真机调试算法实习生/视觉动捕算法实习生/仿真算法实习生 - 实习](https://www.xiaohongshu.com/discovery/item/6ad1e1dd0000000015005a1d?source=webshare&xhsshare=pc_web&xsec_token=ABHXQB0mGPQPEZa8hjuiJB2beVsEOLgRtaLf2N1x9c-CY=&xsec_source=pc_share)
 
 **[2026.10.15]**
 [如身机器人 - 智能与软件 / 电子与机械 / 测试与产品 / 应用制造与数据方向 - 27届校招](https://mp.weixin.qq.com/s/Xk5S1D0f5u5D_Fv3J2hvNw)
