@@ -114,7 +114,10 @@ Xbotics具身智能社区内推清单
 
 </details>
 
-## 2. Rolling Recruitment | 滚动招聘
+## 2. Rolling Recruitment | 滚动招聘 
+
+**[2026.10.18]**
+[西交大科技与教育发展研究院大模型与人机交互课题组 - 研发大模型、Agent、具身智能、人机交互领域 - 科研助理2名](https://mp.weixin.qq.com/s/39CvtgDdxhauGNLOJD_dyw)
 
 **[2026.10.18]**
 [超维动力 - 具身仿真算法/VLA算法及系统/灵巧操作/强化学习运控/Agent开发（仿真训练侧）/大模型人机交互/触觉皮肤/传感器开发/系统集成与测试/嵌入式软件 - 实习 - base:深圳](https://www.xiaohongshu.com/discovery/item/6ad4a345000000002f0303b3?source=webshare&xhsshare=pc_web&xsec_token=ABhGgNbmBt3VTvLKmgPFJYHkXg12A4f4mAaktv5-a0Ldk=&xsec_source=pc_share)
