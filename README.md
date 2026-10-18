@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="120" height="50" alt="image" src="https://github.com/user-attachments/assets/f275d5bf-f323-4b24-abf4-72c12b42e938" /><h1 align="center">
 Xbotics具身智能社区内推清单
 </h1>
 
@@ -115,6 +115,9 @@ Xbotics具身智能社区内推清单
 </details>
 
 ## 2. Rolling Recruitment | 滚动招聘
+
+**[2026.10.18]**
+[超维动力 - 具身仿真算法/VLA算法及系统/灵巧操作/强化学习运控/Agent开发（仿真训练侧）/大模型人机交互/触觉皮肤/传感器开发/系统集成与测试/嵌入式软件 - 实习 - base:深圳](https://www.xiaohongshu.com/discovery/item/6ad4a345000000002f0303b3?source=webshare&xhsshare=pc_web&xsec_token=ABhGgNbmBt3VTvLKmgPFJYHkXg12A4f4mAaktv5-a0Ldk=&xsec_source=pc_share)
 
 **[2026.10.17]**
 [自然意志 - 通用模型测试工程师/AGI Infra工程师（具身智能方向）/基座模型研究员/仿真开发工程师/机器人软件与系统工程师/触觉传感器工程师/结构工程师/数据采集运营负责人等 - 全职/实习/社招/校招 - base：北京/深圳](https://www.xiaohongshu.com/discovery/item/6ad36109000000001a022e3c?source=webshare&xhsshare=pc_web&xsec_token=ABoRM2V971zkmwWPcj0df_zVqWjH-WGXmU9EbE9bDSFOg=&xsec_source=pc_share)
