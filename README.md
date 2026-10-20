@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.10.20]**
+[西安交通大学科技与教育发展研究院 大模型与人机交互课题组 - 科研助理2名](https://mp.weixin.qq.com/s/nD4nn1gdlX5015AvLMVHPA)
+
+**[2026.10.20]**
+[陕西电子信息教育投资集团有限公司 - 算法工程师（具身模型应用方向）1名/算法工程师（具身Agent方向）1名/嵌入式开发工程师（机器人产品方向）1名/软件开发工程师（Agent编排方向）1名 - 全职](https://mp.weixin.qq.com/s/f4bAHiJpSUTWSpB6r3VVWQ)
+
+**[2026.10.19]**
+[博登智能 - 开发岗/算法岗/设计岗: 具身智能大模型/自动驾驶等领域 - 27届校招](https://mp.weixin.qq.com/s/mRoatXU7c69wF8cuw-ZLtQ)
+
 **[2026.10.18]**
 [西交大科技与教育发展研究院大模型与人机交互课题组 - 研发大模型、Agent、具身智能、人机交互领域 - 科研助理2名](https://mp.weixin.qq.com/s/39CvtgDdxhauGNLOJD_dyw)
 
