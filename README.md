@@ -117,6 +117,9 @@ Xbotics具身智能社区内推清单
 ## 2. Rolling Recruitment | 滚动招聘 
 
 **[2026.10.21]**
+[京东探索研究院多模态数据/算法研究团队 - 多模态大模型数据/算法实习生（创新研究方向） - 实习](https://www.xiaohongshu.com/discovery/item/6ad7826200000000290173b9?source=webshare&xhsshare=pc_web&xsec_token=ABGJTOd1JUnyBOS26pAoah8VB42sZvMRDhqeNQRiP8hhk=&xsec_source=pc_share)
+
+**[2026.10.21]**
 [九天具身智能深圳研究院 - 软件开发工程师/销售总监/销售经理/算法工程师/算法负责人/供应链管理工程师/工业设计工程师等 - 社招/校招/全职](https://mp.weixin.qq.com/s/knOs_UDLsHkKWv452zzqzw)
 
 **[2026.10.21]**
