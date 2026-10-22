@@ -116,6 +116,18 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.10.22]**
+[海兰轻舟 - 算法工程师(自动驾驶/具身智能)/雷达感知算法工程师/雷达信号处理算法工程师/软件开发工程师 - 校招](https://mp.weixin.qq.com/s/5a8IwAyxfUlk9s4vqECqWw)
+
+**[2026.10.22]**
+[贝塔无限 - 算法研发类:强化学习、多模态等方向/算法工程师、研究员，覆盖具身大脑、VLA;产品设计类;工程技术类:硬件工程师、嵌入式软件开发、结构工程等;营销运营类 - 校招](https://mp.weixin.qq.com/s/P943doXQMyXmsuJoFgvqNg)
+
+**[2026.10.22]**
+[知来具身 - 通用算法工程师(杭州)/机器人控制工程师(杭州)/3D机器视觉工程师(杭州)/算法工程师(杭州)/解决方案架构师(苏州) - 校招](https://mp.weixin.qq.com/s/LkqnvjNbSAYeTU9pQwyyfg)
+
+**[2026.10.22]**
+[武汉慧力科机器人有限公司 - 机械结构工程师/嵌入式硬件工程师/工业与视觉设计师/机器人测试工程师/具身智能模型实习生/机器人算法实习生/品牌宣传实习生/产品实习生(具身智能方向) - 全职/实习](https://mp.weixin.qq.com/s/5dfBkEff8wSsZr2kdB0SoQ)
+
 **[2026.10.21]**
 [京东探索研究院多模态数据/算法研究团队 - 多模态大模型数据/算法实习生（创新研究方向） - 实习](https://www.xiaohongshu.com/discovery/item/6ad7826200000000290173b9?source=webshare&xhsshare=pc_web&xsec_token=ABGJTOd1JUnyBOS26pAoah8VB42sZvMRDhqeNQRiP8hhk=&xsec_source=pc_share)
 
