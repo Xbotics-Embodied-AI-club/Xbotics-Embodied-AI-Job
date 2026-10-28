@@ -116,6 +116,10 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.10.28]**
+[美国UTK软体机器人与具身智能实验室 - 仿生机器人与软体机器人；具身人工智能、强化学习与物理信息人工智能；机械智能与可编程形状变形；3D打印软体驱动器与传感器；柔性电子与可穿戴传感方向 - 博士及博士后](
+https://zhuanlan.zhihu.com/p/2096949626251360039)
+
 **[2026.10.27]**
 [芯元时代 - AlInfra方向:具身智能AI SDK/Agent/AI编译/高性能算子等 - 27届校招](https://mp.weixin.qq.com/s/bIfB9QPyBZWOy3ItnCTHlA)
 
