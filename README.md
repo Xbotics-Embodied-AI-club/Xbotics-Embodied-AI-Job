@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.11.3]**
+[灵生科技 - 软件开发工程师/平台后端开发/视觉算法工程师/具身机器人开发工程师/具身模型部署工程师 - 全职/实习](https://www.xiaohongshu.com/discovery/item/6ae92f80000000000403addc?source=webshare&xhsshare=pc_web&xsec_token=AB9x6iIR6gTUvK4wUaLzVwPnPafjNw0jLCcOm9DQkICOI=&xsec_source=pc_share)
+
+**[2026.11.3]**
+[艾利特机器人 - 具身算法工程师 - 全职、实习生](https://www.xiaohongshu.com/discovery/item/6ae880090000000035008c62?source=webshare&xhsshare=pc_web&xsec_token=AB5pHGLqkpkn_VaTotpBMPilLD47PfwxXM1-SL5BG-kPU=&xsec_source=pc_share)
+
+**[2026.11.3]**
+[悟演智能 - 具身智能算法工程师 - 社招](https://www.xiaohongshu.com/discovery/item/6ae94d2500000000020343a9?source=webshare&xhsshare=pc_web&xsec_token=AB9x6iIR6gTUvK4wUaLzVwPrn3_Vs0nMQdAgdqeHHF5no=&xsec_source=pc_share)
+
 **[2026.11.1]**
 [卓驭 - 具身算法专家/具身智能产品专家/具身智能产品工程师/具身大模型评测算法专家/具身大模型预训练算法专家/具身大模型后训练算法专家/硬件产品经理(配送机器人)/机器人后训练&应用算法工程师/全身运动控制算法工程师(具身智能)/全身运动控制算法岗(领航者实习)/具身大模型预训练算法岗(领航者实习)/具身大模型后训练算法岗(领航者实习)等 - 社招/校招/实习](https://mp.weixin.qq.com/s/hVDZ-yVPJ3KPmzWgiDjSiw)
 
