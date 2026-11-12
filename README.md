@@ -116,6 +116,24 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.11.12]**
+[典枢科技（盐城）有限公司 - 研发助理/展厅讲解与资产管控/项目申报员/数据采集员 - 实习生/管培生/全职](https://mp.weixin.qq.com/s/dv_ZNQoKTWBXmO4hNlad4w)
+
+**[2026.11.10]**
+[西安交通大学-科技与教育发展研究院-人工智能学院大模型与人机交互课题组 - 科研助理2名](https://mp.weixin.qq.com/s/5GQo6-9O6dCKaKzdnC50pQ)
+
+**[2026.11.10]**
+[云南沐生具身科技有限公司 - 具身智能机器人应用技术员50人 - 实习生/见习生](https://mp.weixin.qq.com/s/JvUK85VKlmCkfPjX3xP1ig)
+
+**[2026.11.10]**
+[高潜力通用具身模型公司 - 模型训练岗 - 全职](https://mp.weixin.qq.com/s/inZTDtma0lrbMWrBpV1wfg)
+
+**[2026.11.6]**
+[元思无界 - 运控算法工程师/VLA 算法工程师/仿真算法工程师/SLAM 算法工程师 - 2027届校招](https://mp.weixin.qq.com/s/XrUgy_ZZqpnMm61zKE_OiA)
+
+**[2026.11.4]**
+[杭州千湖具身科技 - 导航SLAM算法工程师 - 全职](https://mp.weixin.qq.com/s/X-sUAanswOl0Kl6DCEUKbw)
+
 **[2026.11.3]**
 [灵生科技 - 软件开发工程师/平台后端开发/视觉算法工程师/具身机器人开发工程师/具身模型部署工程师 - 全职/实习](https://www.xiaohongshu.com/discovery/item/6ae92f80000000000403addc?source=webshare&xhsshare=pc_web&xsec_token=AB9x6iIR6gTUvK4wUaLzVwPnPafjNw0jLCcOm9DQkICOI=&xsec_source=pc_share)
 
@@ -124,6 +142,9 @@ Xbotics具身智能社区内推清单
 
 **[2026.11.3]**
 [悟演智能 - 具身智能算法工程师 - 社招](https://www.xiaohongshu.com/discovery/item/6ae94d2500000000020343a9?source=webshare&xhsshare=pc_web&xsec_token=AB9x6iIR6gTUvK4wUaLzVwPrn3_Vs0nMQdAgdqeHHF5no=&xsec_source=pc_share)
+
+**[2026.11.2]**
+[LUMIHUNT（狩光科技）- 具身智能数据 - 实习生](https://mp.weixin.qq.com/s/MPjOhv8FlwU9CgVxfFSt-w)
 
 **[2026.11.1]**
 [卓驭 - 具身算法专家/具身智能产品专家/具身智能产品工程师/具身大模型评测算法专家/具身大模型预训练算法专家/具身大模型后训练算法专家/硬件产品经理(配送机器人)/机器人后训练&应用算法工程师/全身运动控制算法工程师(具身智能)/全身运动控制算法岗(领航者实习)/具身大模型预训练算法岗(领航者实习)/具身大模型后训练算法岗(领航者实习)等 - 社招/校招/实习](https://mp.weixin.qq.com/s/hVDZ-yVPJ3KPmzWgiDjSiw)
