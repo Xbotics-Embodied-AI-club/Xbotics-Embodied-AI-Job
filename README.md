@@ -119,6 +119,12 @@ Xbotics具身智能社区内推清单
 **[2026.11.14]**
 [徕福机器人（spesbot） - 强化学习算法工程师/专家、VLM算法工程师/专家 - 全职/社招](./2025/徕福机器人)
 
+**[2026.11.13]**
+[西北工业大学具身智能课题组 - 无人机自主导航与运动控制/机械臂运动规划与控制/具身智能与机器人学习 - 博士后](https://www.xiaohongshu.com/discovery/item/6af52d57000000002a02edf5?source=webshare&xhsshare=pc_web&xsec_token=ABsxaK6nfgGIxVdrAKjL2bYjfk841R-lowd-q3HliwUPw=&xsec_source=pc_share)
+
+**[2026.11.13]**
+[松延动力 - 具身智能研究员 - 全职/社招](https://www.xiaohongshu.com/discovery/item/6af2c399000000002b019716?source=webshare&xhsshare=pc_web&xsec_token=AB82hwzpt2Yxy9lh5w9c_7EwHMSYUoNzFw2QOTTLIGBog=&xsec_source=pc_share)
+
 **[2026.11.12]**
 [典枢科技（盐城）有限公司 - 研发助理/展厅讲解与资产管控/项目申报员/数据采集员 - 实习生/管培生/全职](https://mp.weixin.qq.com/s/dv_ZNQoKTWBXmO4hNlad4w)
 
