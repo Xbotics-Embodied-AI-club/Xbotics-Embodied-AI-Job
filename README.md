@@ -116,6 +116,9 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.11.18]**
+[合肥工业大学管理与智能科学学院 - 机器人及具身智能方向 - 科研助理](https://mp.weixin.qq.com/s/uFawXpdBMCDjoSNB0wkpPA)
+
 **[2026.11.16]**
 [固智机器人 - 电气PLC调试工程师/电气硬件设计工程师/机器人工程师/视觉工程师等 - 27届校招](https://mp.weixin.qq.com/s/f3KzguhxVOus-XIFZ-as7w)
 
