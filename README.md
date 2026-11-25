@@ -116,6 +116,15 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.11.25]**
+[经纬达 - 感知/定位建图算法/决策规划与运动控制算法/端到端自动驾驶算法 - 全职/实习](https://mp.weixin.qq.com/s/9DcimT1i71k_Or5Ty-_Isw)
+
+**[2026.11.25]**
+[上海飒智智能科技有限公司 - 具身AI视觉算法工程师/具身强化学习算法工程师/工业具身LLM大脑开发工程师/具身VLA模型算法及架构开发工程师/前沿具身大模型算法研究员等 - 27届校招](https://mp.weixin.qq.com/s/-pUCiSR4fCdHTRNDSNs4LA)
+
+**[2026.11.24]**
+[广日股份研究院 - 机器人专家/机器人工程师/视觉算法工程师/大模型工程师等 - 博士/全职/社招/校招](https://mp.weixin.qq.com/s/XgPxvh9y7jN__jw-xW_3ZQ)
+
 **[2026.11.18]**
 [合肥工业大学管理与智能科学学院 - 机器人及具身智能方向 - 科研助理](https://mp.weixin.qq.com/s/uFawXpdBMCDjoSNB0wkpPA)
 
