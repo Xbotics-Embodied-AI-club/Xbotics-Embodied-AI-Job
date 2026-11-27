@@ -129,7 +129,7 @@ Xbotics具身智能社区内推清单
 [阶跃星辰基模团队 - 工程（机械、电气、CAD/CAE、3D）与具身机器人方向 - 地点：上海/北京；全职/实习/外部顾问](https://www.xiaohongshu.com/discovery/item/6b03e8ba000000002a01227d?source=webshare&xhsshare=pc_web&xsec_token=ABXdSvEyE47q5fq5v32E2iqngv0rARGfQDVF1bbfU0VFA=&xsec_source=pc_share)
 
 **[2026.11.25]**
-[经纬达 - 感知/定位建图算法/决策规划与运动控制算法/端到端自动驾驶算法/端到端自动驾驶算法等 - 全职/实习生](https://mp.weixin.qq.com/s/9DcimT1i71k_Or5Ty-_Isw)
+[经纬达 - 感知/定位建图算法/决策规划与运动控制算法/端到端自动驾驶算法 - 全职/实习生](https://mp.weixin.qq.com/s/9DcimT1i71k_Or5Ty-_Isw)
 
 **[2026.11.25]**
 [华东师范大学认知智能与具身交互实验室 - 博士后、科研助理](https://mp.weixin.qq.com/s/QiPo5Co4JxaU5ucyioWKLA)
@@ -137,8 +137,6 @@ Xbotics具身智能社区内推清单
 **[2026.11.25]**
 [墨奇智能 - 双足PDT经理 - 全职/社招](https://www.xiaohongshu.com/discovery/item/6b03e3e3000000002b013ccb?source=webshare&xhsshare=pc_web&xsec_token=ABXdSvEyE47q5fq5v32E2iqkIATrf2yj9M_4_tiM8nVqg=&xsec_source=pc_share)
 
-**[2026.11.25]**
-[经纬达 - 感知/定位建图算法/决策规划与运动控制算法/端到端自动驾驶算法 - 全职/实习](https://mp.weixin.qq.com/s/9DcimT1i71k_Or5Ty-_Isw)
 
 **[2026.11.25]**
 [上海飒智智能科技有限公司 - 具身AI视觉算法工程师/具身强化学习算法工程师/工业具身LLM大脑开发工程师/具身VLA模型算法及架构开发工程师/前沿具身大模型算法研究员等 - 27届校招](https://mp.weixin.qq.com/s/-pUCiSR4fCdHTRNDSNs4LA)
