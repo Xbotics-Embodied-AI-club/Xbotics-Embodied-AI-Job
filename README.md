@@ -116,6 +116,27 @@ Xbotics具身智能社区内推清单
 
 ## 2. Rolling Recruitment | 滚动招聘 
 
+**[2026.11.27]**
+[中国科学技术大学先进技术研究院具身认知科学与空间交互工程技术中心 - 机器人软件与算法工程师 - 全职](https://mp.weixin.qq.com/s/PaPZHPU1fFmxUk2KxUeFmA)
+
+**[2026.11.26]**
+[四川九天具身智能科技有限公司 - 具身智能销售经理 - 社招](https://mp.weixin.qq.com/s/snc4fH8cYn_VLNShwVaNnQ)
+
+**[2026.11.26]**
+[蚂蚁数科优服联合交付中心（建水县数字就业基地） - 具身智能数据采集员 - 社招](https://mp.weixin.qq.com/s/XlJNvZqgbk-Pbfq4ez5_qQ)
+
+**[2026.11.26]**
+[阶跃星辰基模团队 - 工程（机械、电气、CAD/CAE、3D）与具身机器人方向 - 地点：上海/北京；全职/实习/外部顾问](https://www.xiaohongshu.com/discovery/item/6b03e8ba000000002a01227d?source=webshare&xhsshare=pc_web&xsec_token=ABXdSvEyE47q5fq5v32E2iqngv0rARGfQDVF1bbfU0VFA=&xsec_source=pc_share)
+
+**[2026.11.25]**
+[经纬达 - 感知/定位建图算法/决策规划与运动控制算法/端到端自动驾驶算法/端到端自动驾驶算法等 - 全职/实习生](https://mp.weixin.qq.com/s/9DcimT1i71k_Or5Ty-_Isw)
+
+**[2026.11.25]**
+[华东师范大学认知智能与具身交互实验室 - 博士后、科研助理](https://mp.weixin.qq.com/s/QiPo5Co4JxaU5ucyioWKLA)
+
+**[2026.11.25]**
+[墨奇智能 - 双足PDT经理 - 全职/社招](https://www.xiaohongshu.com/discovery/item/6b03e3e3000000002b013ccb?source=webshare&xhsshare=pc_web&xsec_token=ABXdSvEyE47q5fq5v32E2iqkIATrf2yj9M_4_tiM8nVqg=&xsec_source=pc_share)
+
 **[2026.11.25]**
 [经纬达 - 感知/定位建图算法/决策规划与运动控制算法/端到端自动驾驶算法 - 全职/实习](https://mp.weixin.qq.com/s/9DcimT1i71k_Or5Ty-_Isw)
 
@@ -123,7 +144,13 @@ Xbotics具身智能社区内推清单
 [上海飒智智能科技有限公司 - 具身AI视觉算法工程师/具身强化学习算法工程师/工业具身LLM大脑开发工程师/具身VLA模型算法及架构开发工程师/前沿具身大模型算法研究员等 - 27届校招](https://mp.weixin.qq.com/s/-pUCiSR4fCdHTRNDSNs4LA)
 
 **[2026.11.24]**
+[浙江人形 - 具身操作算法/多模态算法/运控强化算法/具身数据算法/具身导航算法/应用/软件测试/视觉感知算法/灵巧手结构设计等 - 27届校招](https://mp.weixin.qq.com/s/63BUCuDq4JCmIsfJXAFVLg)
+
+**[2026.11.24]**
 [广日股份研究院 - 机器人专家/机器人工程师/视觉算法工程师/大模型工程师等 - 博士/全职/社招/校招](https://mp.weixin.qq.com/s/XgPxvh9y7jN__jw-xW_3ZQ)
+
+**[2026.11.23]**
+[松延动力 - VLA算法工程师 - 全职](https://www.xiaohongshu.com/discovery/item/6b01468d000000001802b872?source=webshare&xhsshare=pc_web&xsec_token=ABT6KCcOwjseY9nf8mK-0SS6fPDld82s5YCwP9Uqsc-Rc=&xsec_source=pc_share)
 
 **[2026.11.18]**
 [合肥工业大学管理与智能科学学院 - 机器人及具身智能方向 - 科研助理](https://mp.weixin.qq.com/s/uFawXpdBMCDjoSNB0wkpPA)
